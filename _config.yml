@@ -1,21 +1,21 @@
 # Site settings
 title: Musings of an Enlightened Idiot
-subtitle: by HTML5 UP
-email: gauthamv.529@gmail.com
-description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
+subtitle: by Gautham Vasan 
+email: firstname + v dot 529 at gmail dot com
+description: "Gautham's personal blog"
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-author:
+author: Gautham Vasan
 street_address: 
 city: Toronto
-state: ON
+state: Ontario
 zip_code: 
 country: Canada
 phone:
 
 # Social settings
 500px_url:
-facebook_url:
+facebook_url: https://www.facebook.com/gautham.vasan
 github_url: https://github.com/gauthamvasan
 gitlab_url: 
 googleplus_url: 
@@ -27,3 +27,6 @@ twitter_url:
 
 # Build settings
 markdown: kramdown
+
+# Categories
+permalink: /:categories/:title/
