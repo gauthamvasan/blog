@@ -4,7 +4,7 @@ permalink: /categories/
 title: Categories
 ---
 
-
+<section>
 <div id="archives">
     <br> <br>
 <h1>All Posts by Category</h1>
@@ -24,3 +24,4 @@ title: Categories
   </div>
 {% endfor %}
 </div>
+</section>

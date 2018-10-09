@@ -41,6 +41,14 @@ layout: default
 </section>
 -->
 
+<section>
+    <header class="major">
+        <h2>My Blog Posts</h2>
+    </header>
+    <p> I've categorized my posts into the different headers listed in the sidebar. I'd imagine that I'll start including more categories once I hit my stride and write fairly regularly. Regardless, all of my posts sorted by category and date can be found in the link below: </p>
+    <a href="{{site.baseurl}}/categories" class="button">All Posts</a>
+</section>
+
 <!-- Section -->
 <section>
     <header class="major">
