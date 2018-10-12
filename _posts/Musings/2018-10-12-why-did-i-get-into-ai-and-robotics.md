@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Why did I get into AI and Robotics?
-subtitle: A line of thought about my motives 
+subtitle: 
 date: 2018-10-12 00:21:18 -0400
 categories: [Musings, Random]
 ---
