@@ -1,6 +1,6 @@
 ---
 layout: page
-title: என்னரும் தோழனே, இதயத்து நண்பனே!- இருவர் (1997)
+title: "Poem from Iruvar #2: என்னரும் தோழனே, இதயத்து நண்பனே! - இருவர் (1997)"
 subtitle: Iruvar Climax Monologue
 date: 2018-04-15 17:35:30 -0400
 categories: Cinema

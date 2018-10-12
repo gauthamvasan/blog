@@ -1,7 +1,7 @@
 ---
 layout: page
-title: நீ பார்த்த பார்வைக்கொரு நன்றி - ஹே ராம்
-subtitle: Nee Paartha Paarvaikkoru Nandri - Hey Raam
+title: Nee Paartha Paarvaikkoru Nandri from Hey Raam (நீ பார்த்த பார்வைக்கொரு நன்றி - ஹே ராம்)
+subtitle: 
 date: 2018-03-25 19:20:30 -0400
 categories: [TamilLyrics]
 ---

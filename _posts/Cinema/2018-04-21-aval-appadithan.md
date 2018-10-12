@@ -1,6 +1,6 @@
 ---
 layout: page
-title: எரிந்து போன வீடுகள் - அவள் அப்படித்தான்
+title: "Poem from Aval Appadithan #1: எரிந்து போன வீடுகள் - அவள் அப்படித்தான்"
 subtitle: Aval Appadithan (1978) Climax Monologue
 date: 2018-04-21 17:35:30 -0400
 categories: [TamilLyrics, Cinema]

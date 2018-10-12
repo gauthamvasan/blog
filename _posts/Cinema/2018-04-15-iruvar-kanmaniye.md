@@ -1,6 +1,6 @@
 ---
 layout: page
-title: உன்னோடு நான் இருந்த ஒவ்வொரு மணி துளியும் - இருவர் (1997)
+title: "Poem from Iruvar #1: உன்னோடு நான் இருந்த ஒவ்வொரு மணி துளியும் - இருவர் (1997)"
 subtitle: Unnodu Naan Irundha Ovvoru Mani Thuliyum - Iruvar (1997)
 date: 2018-04-15 15:35:30 -0400
 categories: Cinema
