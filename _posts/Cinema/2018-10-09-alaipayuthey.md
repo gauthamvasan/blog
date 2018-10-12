@@ -3,7 +3,7 @@ layout: page
 title: Alaipayuthey (அலைபாயுதே)
 subtitle: Maniratnam's much-loved romantic drama and the memories it invokes for me
 date: 2018-10-09 11:21:30 -0400
-categories: [Cinema, Random, Musings]
+categories: [Cinema, Random]
 ---
 
 I went hiking at [Algonquin Provincial Park](https://www.ontarioparks.com/park/algonquin) last weekend. And the weekend before as well. All for the sake of watching the fall colours. The mesmerizing interplay of red, yellow and green leaves is still fresh in my memory.  
