@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Reminiscence - The end of an era
+title: Reminiscence - The End of an Era
 subtitle: Looking at my life at NIT Trichy through Graduation Goggles
 date: 2015-04-01 18:10:55 -0400
 categories: Musings
