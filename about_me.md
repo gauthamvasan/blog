@@ -13,13 +13,13 @@ categories: []
 
 <h2 class="section-heading"> Techie Intro </h2> 
 
-<p align="justify"> I'm the guy who's working towards making Terminators a reality. Kidding aside, I'm passionate about Robotics and AI. I'm a self-proclaimed bibliophile who ends up binge-watching movies and TV shows. I'm interested in building machines with human-like intelligence. It helps me better understand my own brain from a computational perspective and augment myself when the machines take over. </p>
+<p align="justify"> I'm the guy who's working towards making Terminators a reality. Kidding aside, I'm passionate about Robotics and AI. I'm a self-proclaimed bibliophile who ends up binge-watching movies and TV shows. I'm interested in building machines with human-like intelligence. It helps me better understand my own brain from a computational perspective and augment myself when the machines take over. For more, please visit my <a href="https://gauthamvasan.github.io">academic portfolio</a>.</p>
 
 <h2 class="section-heading"> What Do I Do Outside Of Work? </h2>
 <p align="justify"> I love to travel with my friends and family. Something about roaming around the streets of a new city, soaking in the culture and enjoying the local cuisine is extremely appealing to me. Hiking with a small, close knit group is always fun. I'm currently learning to play the guitar. Recently, I've been bitten by the fitness bug - I bike to work (rain, snow or shine) and try to workout regularly. Yoga has proven to be a gamechanger - strengthens my core and improves my flexibility. </p>
 
 <h2 class="section-heading">Favourite Books</h2>
-<p align="justify"> In no particular order - War and Peace, Crime and Punishment, Life and Fate, The Fountainhead, The Godfather, A God of Small Things, Midnight's Children, A Fine Balance, The Hitchhikers series, Catch 22, We, The Harry Potter series, Ponniyin Selvan </p>
+<p align="justify"> In no particular order - War and Peace, Crime and Punishment, Life and Fate, The Fountainhead, The Godfather, A God of Small Things, Midnight's Children, A Fine Balance, The Hitchhikers series, Catch 22, We, The Harry Potter series, Ponniyin Selvan. </p>
 
 <p align="justify"> If you want judge me based on what I read: <a href="https://www.goodreads.com/user/show/29446357-gautham-vasan" target="_blank">Goodreads profile</a> </p>
 
