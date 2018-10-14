@@ -16,7 +16,7 @@ categories: []
 <p align="justify"> I'm the guy who's working towards making Terminators a reality. Kidding aside, I'm passionate about Robotics and AI. I'm a self-proclaimed bibliophile who ends up binge-watching movies and TV shows. I'm interested in building machines with human-like intelligence. It helps me better understand my own brain from a computational perspective and augment myself when the machines take over. For more, please visit my <a href="https://gauthamvasan.github.io">academic portfolio</a>.</p>
 
 <h2 class="section-heading"> What Do I Do Outside Of Work? </h2>
-<p align="justify"> I love to travel with my friends and family. Something about roaming around the streets of a new city, soaking in the culture and enjoying the local cuisine is extremely appealing to me. Hiking with a small, close knit group is always fun. I'm currently learning to play the guitar. Recently, I've been bitten by the fitness bug - I bike to work (rain, snow or shine) and try to workout regularly. Yoga has proven to be a gamechanger - strengthens my core and improves my flexibility. </p>
+<p align="justify"> I love to travel with my friends and family. Something about roaming around the streets of a new city, soaking in the culture and enjoying the local cuisine is extremely appealing to me. Hiking with a small, close knit group is always fun. I'm currently learning to play the guitar. Recently, I've been bitten by the fitness bug - I bike to work (rain, snow or shine) and try to workout regularly. Yoga has proven to be a game changer - strengthens my core and improves my flexibility. </p>
 
 <h2 class="section-heading">Favourite Books</h2>
 <p align="justify"> In no particular order - War and Peace, Crime and Punishment, Life and Fate, The Fountainhead, The Godfather, A God of Small Things, Midnight's Children, A Fine Balance, The Hitchhikers series, Catch 22, We, The Harry Potter series, Ponniyin Selvan. </p>
@@ -29,6 +29,6 @@ categories: []
         <li><b>English:</b> Fight Club, Logan, Forrest Gump, John Wick, The Dark Knight, Good Will Hunting, most of Nolan, Guy Ritchie and Tarantino's works </li>
         <li><b>Hindi:</b> Gangs of Wasseypur, Rang De Basanti, 3 Idiots, Zindagi Na Milegi Dobara</li>
         <li><b>Other:</b> City of God, The Intouchables, Memories of Murder</li>
-        <li><b>Tamil:</b> Aval Appadithan, Devar Magan, Varumaiyin Niram Sivappu, Vaaranam Aayiram, Padayappa, Ullathai Alli Tha, a large proportion of Kamal Haasan, Selvaraghavan, Vetri Maaran, Karthik Subburaj and Mani Ratnam's works  </li>
+        <li><b>Tamil:</b> Aval Appadithan, Devar Magan, Varumaiyin Niram Sivappu, Vaaranam Aayiram, Padayappa, Anbe Sivam, Ullathai Alli Tha, a large proportion of Kamal Haasan, Selvaraghavan, Vetri Maaran, Karthik Subburaj and Mani Ratnam's works  </li>
     </ul>
 </p>
