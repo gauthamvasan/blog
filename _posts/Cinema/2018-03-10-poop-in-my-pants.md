@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Poop In My Pants
+title: The Poop In My Pants: A Rick & Morty Special
 subtitle: "Ooo-Wee - Mr.Poopy Butthole is here to make you feel all warm and squishy :P"
 date: 2018-03-10 03:10:55 -0400
 categories: Cinema
