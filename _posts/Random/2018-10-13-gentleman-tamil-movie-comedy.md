@@ -19,7 +19,7 @@ The double entendres and sexual innuendos in the Tamil Movie [Gentleman](https:/
 |Dil-kush|தில் குஷ்|    |
 |Dil-pasandh|தில் பசந்த் |  |
 |Kunni paapu| குன்னி பாப்பா |   |
-|Kun-jun-jungu| குன் ஜுன் ஜுங்கு |  |
+|Kun-jun-jungu| குன்-ஜுன்-ஜுங்கு |  |
 |Maarsilona| மார்சிலோனா|    |
 |Marvelin Throw| மார்வெலின் த்ரோ|   |
 
