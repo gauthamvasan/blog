@@ -11,7 +11,7 @@ categories: [TamilLyrics]
 |---	|---	|---	|---	|---	|
 | <b> Song <br> (பாடல்)  </b> | <b> Movie <br> (படம்) </b> | <b> Singer(s) <br> (பாடகர்) </b> | <b> Music Director(s) (இசையமைப்பாளர்) </b> | <b> Lyrics <br> (பாடலாசிரியர்) </b> |
 | Nee Partha Paarvai | Hey Raam | Asha Bhosle, Hariharan, Rani Mukerji | Ilayaraja | Jibanananda Das, Kamal Haasan |
-| நீ பார்த்த பார்வ | ஹே ராம் | ஆஷா போஸ்லே, ஹரிஹரன், ராணி முக்ஹெர்ஜீ	| இளையராஜா | ஜிபானனந்த தாஸ், கமல் ஹாசன் |
+| நீ பார்த்த பார்வை | ஹே ராம் | ஆஷா போஸ்லே, ஹரிஹரன், ராணி முக்ஹெர்ஜீ	| இளையராஜா | ஜிபானனந்த தாஸ், கமல் ஹாசன் |
 
 
 <table style="width:100%", align="center">
