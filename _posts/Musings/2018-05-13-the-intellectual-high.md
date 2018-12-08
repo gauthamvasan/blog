@@ -14,6 +14,19 @@ categories: Musings
 
 <p align="justify">Recently I was a part of a research discussion with stalwarts in the field. It was so interesting that we all forgot/ignored lunch and kept brainstorming for hours. When we were done, I felt like I had learned quite a lot in a short span! At that moment, I felt truly grateful. We really are standing on the shoulders of giants. We might see farther than our predecessors, but it's important to keep in mind that our teachers (incredible humans, predecessors, legendary scientists, etc) equipped us with the skills, knowledge and vision required to work on things bigger than us. It was a truly humbling experience. In a gist, I experienced the intellectual high. </p>
 
+<div class="row uniform">
+<div class="4u 12u$(medium)">
+<span class="image main"><img src="#" alt="" /></span>
+</div>
+	<div class="4u 12u$(medium)">
+        <span class="image main"><img src="{{site.baseurl}}/assets/images/Kindred_Sutton_May15.jpg" alt="" /></span>
+</div>
+<div class="4u 12u$(medium)">
+<span class="image main"><img src="#" alt="" /></span>
+</div>
+</div>
+
+<br>
 <p align="justify">I've experienced the intellectual high a couple times in my life. It happens only when you are working on something you are truly passionate about. I sincerely hope that I have the good sense to work on important things and remain grounded. </p>
 
 <p> Signing off, <br>
