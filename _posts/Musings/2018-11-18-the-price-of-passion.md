@@ -23,5 +23,6 @@ I did meet a lot of wonderful people. I did make new friends. I could even argue
 <blockquote>
     Growth is painful. <br>
     Change is painful. <br>
-    But nothing is as painful as staying stuck somewhere you don't belong.
+    But nothing is as painful as staying stuck somewhere you don't belong.Price of git status
+    
 </blockquote>
