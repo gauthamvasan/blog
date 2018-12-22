@@ -6,9 +6,19 @@ date: 2016-08-21 13:30:25 -0400
 categories: Media
 ---
 
-<a href="#">
-    <img class="img-responsive" src="{{site.baseurl}}/assets/images/hindu_article_pose.jpg" alt="">
-</a>
+<div class="row uniform">
+<div class="4u 12u$(medium)">
+<span class="image main"><img src="#" alt="" /></span>
+</div>
+	<div class="4u 12u$(medium)">
+        <span class="image main"><img src="{{site.baseurl}}/assets/images/hindu_article_pose.jpg" alt="" /></span>
+</div>
+<div class="4u 12u$(medium)">
+<span class="image main"><img src="#" alt="" /></span>
+</div>
+</div>
+
+<br>
 
 <p>My article recently got published in The Hindu Education Plus! Yay! I guess I intended it as a publicity piece for the University of Alberta and in retrospect, I was showing off a bit. 
 Regardless, you can find the article here - <a href="http://www.thehindu.com/features/education/gauthan-vasan-shares-his-fascination-for-creating-intelligent-artificial-limbs-at-the-university-of-alberta/article9012039.ece" target = "_blank"> Hindu article </a> </p>

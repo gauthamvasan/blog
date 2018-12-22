@@ -16,7 +16,14 @@ On a particularly introspective evening, I was looking back at some of the most 
 
 Unfortunately, in my experience, this path and transformation isn't linear. It requires a motivating factor (something that gives meaning to your life), endurance, perseverance and restraint. Whenever something drastic happens, my self-discipline takes a huge hit. With each blow, I find myself handling it better, but there's still a lot of scopes for improvement. When I crack the code for consistent excellence, I'll be sure to write a post about it. Until then I guess I should just keep my chin up and trudge ahead :)
 
-
-<div class="posts" style="text-align:center">
-<article><span class="image main"><img src="{{site.baseurl}}/assets/images/path-to-success.png" alt="" /></span> </article>
+<div class="row uniform">
+<div class="4u 12u$(medium)">
+<span class="image main"><img src="#" alt="" /></span>
+</div>
+	<div class="4u 12u$(medium)">
+        <span class="image main"><img src="{{site.baseurl}}/assets/images/path-to-success.png" alt="" /></span>
+</div>
+<div class="4u 12u$(medium)">
+<span class="image main"><img src="#" alt="" /></span>
+</div>
 </div>
