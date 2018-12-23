@@ -1,6 +1,6 @@
 ---
 layout: category-layout
-title: Tamil Lyrics
+title: "Tamil Poems & Lyrics"
 permalink: /tamil/
 filtercategory: TamilLyrics
 ---
