@@ -6,7 +6,7 @@ date: 2018-10-13 11:58:55 -0400
 categories: Random
 ---
 
-The double entendres and sexual innuendos in the Tamil Movie [Gentleman](https://en.wikipedia.org/wiki/Gentleman_(1993_film)) have achieved a cult fan following over the years. The comedy sequences involving Goundamani and Senthil are legendary to this day. Don't really know why, I started laughing out of the blue thinking about "Dikkilona". I figured I should rewatch those comedy scenes and list all the games mentioned in the movie. Finally a useful post in my blog :P
+<p align="justify"> The double entendres and sexual innuendos in the Tamil Movie <a href="https://en.wikipedia.org/wiki/Gentleman_(1993_film)">Gentleman</a> have achieved a cult fan following over the years. The comedy sequences involving Goundamani and Senthil are legendary to this day. Don't really know why, I started laughing out of the blue thinking about "Dikkilona". I figured I should rewatch those comedy scenes and list all the games mentioned in the movie. Finally a useful post in my blog :P </p>
 
 |   	|   	|   	|
 |---	|---	|---	|
@@ -23,6 +23,6 @@ The double entendres and sexual innuendos in the Tamil Movie [Gentleman](https:/
 |Maarsilona| மார்சிலோனா|    |
 |Marvelin Throw| மார்வெலின் த்ரோ|   |
 
-If this brings back memories, watch it again :)
+<p align="justify"> If this brings back memories, watch it again :) </p>
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/xL2tqxSlb-g" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></center>

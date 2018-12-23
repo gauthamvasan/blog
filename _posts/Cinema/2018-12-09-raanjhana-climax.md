@@ -12,9 +12,9 @@ categories: Cinema
 
 <br>
 
-[Dhanush](https://en.wikipedia.org/wiki/Dhanush) is currently one of the most popular stars in Tamil Cinema. He's an extraordinary actor who has proved his mettle time and time again. [Raanjhana](https://en.wikipedia.org/wiki/Raanjhanaa) isn't his best film in my opinion. But he made his Bollywod debut with it and won the hearts of millions of viewers across India. A man who was constantly ridiculed for his looks and skin tone turned into an "overnight" sensation. I must say, the awards and adulations were well deserved. Raanjhana is an interesting movie with an amazing soundtrack (composed by the one and only [A.R. Rahman](https://en.wikipedia.org/wiki/A._R._Rahman)). Definitely worth a watch if you haven't seen it yet! 
+<p align="justify"><a href="https://en.wikipedia.org/wiki/Dhanush">Dhanush</a> is currently one of the most popular stars in Tamil Cinema. He's an extraordinary actor who has proved his mettle time and time again. <a href="https://en.wikipedia.org/wiki/Raanjhanaa">Raanjhana</a> isn't his best film in my opinion. But he made his Bollywod debut with it and won the hearts of millions of viewers across India. A man who was constantly ridiculed for his looks and skin tone turned into an "overnight" sensation. I must say, the awards and adulations were well deserved. Raanjhana is an interesting movie with an amazing soundtrack (composed by the one and only <a href="https://en.wikipedia.org/wiki/A._R._Rahman">A.R. Rahman</a>). Definitely worth a watch if you haven't seen it yet! </p>
 
-I learned Hindi as a third language. I can understand a significant portion of conversations, but could barely speak the language. If someone like me could appreciate the depth and heartfelt sincerity in this scene, all credits go to the writer [Himanshu Sharma](https://en.wikipedia.org/wiki/Himanshu_Sharma) and the entire film crew.
+<p align="justify">I learned Hindi as a third language. I can understand a significant portion of conversations, but could barely speak the language. If someone like me could appreciate the depth and heartfelt sincerity in this scene, all credits go to the writer <a href="https://en.wikipedia.org/wiki/Himanshu_Sharma">Himanshu Sharma</a> and the entire film crew.</p>
 
 <blockquote> 
     बस इतनी हि कहानी थी मेरी.. <br>

@@ -6,7 +6,7 @@ date: 2018-10-10 01:40:10 -0400
 categories: Musings
 ---
 
-<p align="justify">I came across this on a facebook post by Rahul Ramchand. He credited this to a subreddit comment and unfortunately did not have a link. But this is beautiful and deserves to be saved. </p>
+<p align="justify"> I came across this on a facebook post by Rahul Ramchand. He credited this to a subreddit comment and unfortunately did not have a link. But this is beautiful and deserves to be saved. </p>
 
 
 <blockquote>
