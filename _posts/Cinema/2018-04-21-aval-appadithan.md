@@ -10,7 +10,7 @@ categories: [TamilLyrics, Cinema]
                                     
 <br>
 
-<p align="justify"> <a href="https://en.wikipedia.org/wiki/Aval_Appadithan">Aval appadithan</a> is an underrated masterpiece. I guess underrated is an understatement for such an extraordinary film. It was way ahead of its time then (1978). Even if the film is remastered and released now, it wouldn't achieve the cult and recognition it deserves. I intend to write a separate blog post extolling the feminist ideas, poignant moments, brilliant acting, etc. Great films make you think and this film had my brain on overdrive. I'd repeatedly pause and replay scenes just to listen to the dialogue again. I'll leave you with a beautiful voice-over (narrated over the climax sequence) that haunts me to  this day. </p>
+<p align="justify"> <a href="https://en.wikipedia.org/wiki/Aval_Appadithan">Aval Appadithan</a> is an underrated masterpiece. I guess underrated is an understatement for such an extraordinary film. It was way ahead of its time then (1978). Even if the film is remastered and released now, it wouldn't achieve the cult and recognition it deserves. I intend to write a separate blog post extolling the feminist ideas, poignant moments, brilliant acting, etc. Great films make you think and this film had my brain on overdrive. I'd repeatedly pause and replay scenes just to listen to the dialogue again. I'll leave you with a beautiful voice-over (narrated over the climax sequence) that haunts me to  this day. </p>
 
 <br>
 
