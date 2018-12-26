@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Why did I get into AI and Robotics?
+title: Why Did I Get Into AI And Robotics?
 subtitle: 
 date: 2018-10-12 00:21:18 -0400
 categories: [Musings, Random]
