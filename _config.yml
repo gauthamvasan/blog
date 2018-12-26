@@ -1,7 +1,7 @@
 # Site settings
 title: Musings of an Enlightened Idiot
 subtitle: by Gautham Vasan 
-email: firstname + v dot 529 at gmail dot com
+email: gauthamv dot 529 at gmail dot com
 description: "Gautham's personal blog"
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
