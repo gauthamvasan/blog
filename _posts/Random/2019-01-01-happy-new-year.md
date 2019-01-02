@@ -19,7 +19,7 @@ categories: Random
 * Vishaal and Ramkumar - Some of my oldest friends from high school. Super smart, fun guys to hangout with! They're both living in Pittsburgh (roommates) and pursuing a PhD. I had a blast hanging out with them in Sept this year!
 * Sharath Anna - A cousin who's life experiences would blow your mind! Never got a chance to spend time with him until this year. Great guy who I'd love to josh around with more often.
 * Rajan uncle - My Dad's closest friend. Another guy who's life experiences, tastes and ideas impressed the hell out of me. Kind, funny and unassuming :) The trip to Vellore to meet him would always be close to my heart :) 
-* Honorable mentions - Navaneeth, Sanket, Megha, Jeremy, Simge, Dieta, Bala, Lalith and Siddharth Balan for being in my life. Yoga classes with Alejandra. Colin (intern at Kindred) for exhibiting true emotional strength.    
+* Honorable mentions - Navaneeth, Sanket, Megha, Jeremy, Simge, Dieta, Bala, Chris Glover, Lalith and Siddharth Balan for being in my life. Yoga classes with Alejandra. Colin (intern at Kindred) for exhibiting true emotional strength. Also the family run Dumpling House in East Chinatown!   
 * Paati, Senthil, Nathan and Rajesh Chithappa, Anitha Chithi, Sriram, Karthik and Varshini - For their genuine love and concern for me :)  
 * Srinath - My brother who puts up with all the weird shit I say. He's currently studying in Sweden. I'm sure he's going to do great things in life :)
 * Amma and Appa - Eternally indebted to their unconditional love. I do debate with them a lot just for the sake of it :P They really did let me live life on my own terms.
