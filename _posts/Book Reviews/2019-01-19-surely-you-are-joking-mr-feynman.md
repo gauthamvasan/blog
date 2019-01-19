@@ -37,4 +37,4 @@ categories: [BookReviews]
 <hr class="major" />
 <!-- ----------------------------------------------------------------------------------------------------------------- -->
 
-<p align="justify"> <b>P.S: </b> In an effort to avoid spoilers, I did not talk about specific stories or excerpts from the book. If you are interested in reading such a discussion, please read this <a href="{{site.baseurl}}/musings/excerpts-surely-you-are-joking-mr-feynman/">post</a>. </p>
+<p align="justify"> <b>P.S: </b> In an effort to avoid spoilers, I did not talk about specific stories or excerpts from the book. If you are interested in reading such a post, please find it <a href="{{site.baseurl}}/musings/excerpts-surely-you-are-joking-mr-feynman/">here</a>. </p>
