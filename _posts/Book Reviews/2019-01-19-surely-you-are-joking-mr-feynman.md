@@ -13,17 +13,17 @@ categories: [BookReviews]
 ― Robert A. Heinlein 
 </blockquote>
 
-<p align="justify"> I couldn't fit Feynman into specific "boxes". He's a legendary physicist, good artist, talented musician (drums, frigideria, bongo), "expert" safecracker, possibly a great dancer and unbelievably good at social situations. I know hardly few people who are as versatile as he is. But Feynman is still on a different level of excellence. What makes Feynman one of the greatest humans to have ever lived? I couldn't figure it out for a while. I took a moment to think about my favourite stories from his life. All of a sudden, it dawned on me. He took his work seriously, but never took himself seriously! Whatever he did, he poured his heart and soul into it. If he was intrigued by something, he played along until his curiousity was satiated. If we wanted to do something, he just did it. He just didn't give a fuck about what other people think or say about him. No wonder he couldn't stand pretension and hypocrisy! </p>
+<p align="justify"> I couldn't fit Feynman into specific "boxes". He's a legendary physicist, good artist, talented musician (drums, frigideira, bongo), "expert" safecracker, possibly a great dancer and unbelievably good at social situations. I know hardly few people who are as versatile as he is. But Feynman is still on a different level of excellence. What makes Feynman one of the greatest humans to have ever lived? I couldn't figure it out for a while. I took a moment to think about my favourite stories from his life. All of a sudden, it dawned on me. He took his work seriously, but never took himself seriously! Whatever he did, he poured his heart and soul into it. If he was intrigued by something, he played along until his curiosity was satiated. If we wanted to do something, he just did it. He just didn't give a fuck about what other people think or say about him. No wonder he couldn't stand pretension and hypocrisy! </p>
 
-<p align="justify"> I watched Yes Man starring Jim Carrey recently. It's a predicatable comedy. Nevertheless it's a hilarious movie with an oft-forgotten message - open up your mind to other possibilites and say yes when a great/fun opportunity arises. I believe Feynman truly mastered this concept. That's exactly why his life was so much fun! Ralph Leighton's words perfectly capture my thoughts on Feynman's life - "That one person could have so many wonderfully crazy things happen to him in one life is sometimes hard to believe. That one person could invent so much innocent mischief in one life is surely an inspiration!" </p>
+<p align="justify"> I watched Yes Man starring Jim Carrey recently. It's a predictable comedy. Nevertheless it's a hilarious movie with an oft-forgotten message - open up your mind to other possibilities and say yes when a great/fun opportunity arises. I believe Feynman truly mastered this concept. That's exactly why his life was so much fun! Ralph Leighton's words perfectly capture my thoughts on Feynman's life - "That one person could have so many wonderfully crazy things happen to him in one life is sometimes hard to believe. That one person could invent so much innocent mischief in one life is surely an inspiration!" </p>
 
 <p align="justify"> If someone asks me what portions of the book were my favourites, I'd mention the following fantastic/crazy encounters in Feynman's life: </p> 
 <ol>
     <li> Interactions with other legendary scientists at Princeton and Los Alamos </li>
-    <li> Stories on playing the frigidiera with a Brazilian Samba school </li>
+    <li> Stories on playing the frigideira with a Brazilian Samba school </li>
     <li> Criticism of the Brazilian education system (somethning that is quite relevant to India as well) </li> 
-    <li> His antics trying to learn art, practicing drawing at a topless restaurant and later commisioned to draw a nude toreador girl being charged by a bull with a man's head </li>
-    <li> Learning to play African drums music, then drumming for a all percussion ballet! </li>
+    <li> His antics trying to learn art, practicing drawing at a topless restaurant and later commissioned to draw a nude toreador girl being charged by a bull with a man's head </li>
+    <li> Learning to play African drums music, then drumming for an all percussion ballet! </li>
     <li> Burning out and then doing science for fun (the plate wobbling story at Cornell) </li>
     <li> Antics involving Las Vegas show girls </li>
     <li> The chapters titled "An Offer You Must Refuse" and "Cargo Cult Science" </li>
