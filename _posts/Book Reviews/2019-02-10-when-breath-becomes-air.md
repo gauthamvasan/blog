@@ -44,7 +44,6 @@ Abraham Verghese nailed it in the foreword:</p>
 <ol> 
     <li> <a href="https://www.nytimes.com/2014/01/25/opinion/sunday/how-long-have-i-got-left.html">How Long Have I Got Left?</a> </li>
     <li> <a href="https://stanmed.stanford.edu/2015spring/before-i-go.html">Before I go - Time warps for a young surgeon with metastatic lung cancer</a> </li>
-    <li> </li>
 </ol>
 
 
