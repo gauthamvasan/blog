@@ -7,7 +7,7 @@ categories: [BookReviews, Musings]
 ---
 
 <h3> A Bit Of A Back Story </h3>
-<p align="justify"> I can't seem to recollect how I first heard about Paul Kalanithi's heart-rending memoir <a href="https://en.wikipedia.org/wiki/When_Breath_Becomes_Air">When Breath Becomes Air</a>. In hindsight, the whole experience of choosing this book feels surreal to me. All I knew (back then) was that it was book written by a dying man. I made mental note to read it later and just moved on. But the story doesn't end there. It somehow came back to find me at the right moment in my life. If I've learned anything in 2018, it's that timing is everything. Off late, I've been struggling to find meaning in my life. Things that used to give me a strong sense of purpose were no longer do. Atleast, they aren't enough to be sated. Unbeknownst to me, life had moved my goal posts already. What made me tick a year back doesn't work anymore. I need to reinvent myself and redefine the things that make my life worth living. It's almost impossible to talk about life and meaning without thinking about death. Nothing is more certain than death. Depending on your perspective, it could make life meaningful/meaningless. I haven't read/experienced enough to make a strong argument supporting either claim. But I do know that finitude (a word I learned from Paul Kalanithi) enhances meaning in life. </p>
+<p align="justify"> I can't seem to recollect how I first heard about Paul Kalanithi's heart-rending memoir <a href="https://en.wikipedia.org/wiki/When_Breath_Becomes_Air">When Breath Becomes Air</a>. In hindsight, the whole experience of choosing this book feels surreal to me. All I knew (back then) was that it was book written by a dying man. I made mental note to read it later and just moved on. But the story doesn't end there. It somehow came back to find me at the right moment in my life. If I've learned anything in 2018, it's that timing is everything. Off late, I've been struggling to find meaning in life. Things that used to give me a strong sense of purpose no longer do. Atleast, they aren't enough to be sated. Unbeknownst to me, life had moved the goal posts already. What made me tick a year back doesn't work anymore. I need to reinvent myself and redefine the things that make my life worth living. It's almost impossible to talk about life and meaning without thinking about death. Nothing is more certain than death. Depending on your perspective, it could make life meaningful/meaningless. I haven't read/experienced enough to make a strong argument supporting either claim. But I do know that finitude (a word I learned from Paul Kalanithi) enhances meaning in life. </p>
 
 
 <p align="justify"> <i>"The dying are the ones who have the most to teach us about life..."</i> These words kept echoing in my mind as I rolled under the blanket, musing about a life well lived. I didn't know where I had read/heard that phrase, but I couldn't get it out of my head. I was experiencing the earworm reverberation. Finally, I had to google the phrase and et voila, I came across Paul Kalanithi, a great man whose life ended way too soon. A man who'd forever remain an inspiration to countless men and women including yours truly. A man who didn't avert his gaze when the grim reaper came knocking on his doors. A man who's authenticity and integrity took my breath away. Quoting Lucy Kalanithi, "What happened to Paul was tragic, but he was not a tragedy." </p>
@@ -40,12 +40,12 @@ Abraham Verghese nailed it in the foreword:</p>
 
 <br>
 
-<p align="justify"> I'd recommend reading the following articles written by Paul before starting with his book: </p>
+<p align="justify"> I highly recommend reading the following articles written by Paul first. Think of them as pre-requisites for his book. It mentally prepares you for the journey: 
 <ol> 
     <li> <a href="https://www.nytimes.com/2014/01/25/opinion/sunday/how-long-have-i-got-left.html">How Long Have I Got Left?</a> </li>
     <li> <a href="https://stanmed.stanford.edu/2015spring/before-i-go.html">Before I go - Time warps for a young surgeon with metastatic lung cancer</a> </li>
 </ol>
-
+</p>
 
 
 <!-- ----------------------------------------------------------------------------------------------------------------- -->
@@ -123,7 +123,28 @@ As a neurosurgical resident, Kalanithi was well aware of the difference between 
 <hr class="major" />
 <!-- ----------------------------------------------------------------------------------------------------------------- -->
 
-<h3> I Can’t Go On. I’ll Go On. </h3>
+<h3> In the immortal words of Samuel Beckett, "I Can’t Go On. I’ll Go On." </h3>
 <blockquote>
     And so it was literature that brought me back to life during this time. The monolithic uncertainty of my future was deadening; everywhere I turned, the shadow of death obscured the meaning of any action. I remember the moment my overwhelming unease yielded, when that seemingly impassable sea of uncertainty parted. I woke up in pain, facing another day – no project beyond breakfast seemed tenable. I can’t go on, I thought, and immediately, its antiphon responded, completing Samuel Beckett’s seven words, words I had learned long ago as an undergraduate: I’ll go on. I got out of bed and took a step forward, repeating the phrase over and over “I can’t go on. I’ll go on.”
 </blockquote>
+
+
+<!-- ----------------------------------------------------------------------------------------------------------------- -->
+<hr class="major" />
+<!-- ----------------------------------------------------------------------------------------------------------------- -->
+
+<h3> Highlights & Comments About Lucy Kalanithi's Poignant Epilogue  </h3>
+
+<blockquote>
+    Relying on his own strength and the support of his family and community, Paul faced each stage of his illness with grace — not with  bravado or a misguided faith that he would “overcome” or “beat” cancer but with an authenticity that allowed him to grieve the loss of the future he had planned and forge a new one. He cried on the day he was diagnosed. He cried while looking at a drawing we kept on the bathroom mirror that said, “I want to spend all the rest of my days here with you.” He cried on his last day in the operating  room. He let himself be open and vulnerable,  let himself be comforted. Even while terminally ill, Paul was fully alive; despite physical collapse, he remained vigorous, open, full of hope not for an unlikely cure but for days that were full of purpose and meaning.
+    <br> <br>
+    Paul’s voice in When Breath Becomes Air is strong and distinctive, but also somewhat solitary. Parallel to this story are the love and warmth and spaciousness and radical permission that surrounded him. We all inhabit different selves in space and time. Here he is as a doctor, as a patient, and within a doctor-patient relationship. He wrote with a clear voice, the voice of someone with limited time, a ceaseless striver, though there were other selves as well. Not fully captured in these pages are Paul’s sense of humor—he was wickedly funny—or his sweetness and tenderness, the  value he placed on relationships with friends and family. But this is the book he wrote; this was his voice during this time; this was his message during this time; this was what he wrote when he needed to write it. Indeed, the version of Paul I miss most, more even than the robust, dazzling version with whom I first fell in love, is the beautiful, focused man he was in his last year, the Paul who wrote this book—frail but never weak.
+</blockquote>
+    
+<p align="justify"> The quote above is important for context. Throughout the book, we see a side of Paul Kalanithi that he chose to reveal to us - a voracious reader, a gifted writer, a high-achieving scientist-surgeon, a man in pursuit of meaning and perfection, a man who placed a lot of value in human relationships. But that is not the complete picture. Lucy Kalanithi wrote the epilogue that concludes the book. Her account of Paul's final days is heartbreaking to say the least. When I was reading her afterword, I had to frequently stop to close my eyes and fight the tears. Her last sentences struck a chord with me:
+
+<blockquote>
+    “For much of his life, Paul wondered about death – and whether he could face it with integrity. In the end, the answer was yes. I was his wife and a witness.”
+</blockquote>
+
+This book would remain close to my heart for a long, long time. I'm not who I want to be yet. Thanks to Paul Kalanithi, I atleast know that I'm headed in the right direction. Read this book. See what authenticity looks like. See what facing death with grace and integrity looks like. Listen to your inner voice when reading his immortal words. I promise, it'll make you a better person. </p>
