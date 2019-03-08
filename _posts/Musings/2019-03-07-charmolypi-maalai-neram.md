@@ -39,7 +39,7 @@ categories: [Musings]
 <p align="justify"> A beautiful word isn't it. It's perfect. It captures so many nuanced emotions: </p>
 <ul>
     <li> my longing for things past </li> 
-    <li> my gratefulness for all the experiences (good and bad) that've made me who I am today </li>
+    <li> my gratitude for all the experiences (good and bad) that've made me who I am today </li>
     <li> a bittersweet smile when looking back at the unaltered past, at the idealism and folly of youth </li>
     <li> a realization that those carefree, happy, good old days are gone </li>
 </ul>
