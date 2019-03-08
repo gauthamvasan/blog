@@ -16,13 +16,11 @@ categories: Musings
 
 <div class="row uniform">
 <div class="4u 12u$(medium)">
-<span class="image main"><img src="#" alt="" /></span>
 </div>
 	<div class="4u 12u$(medium)">
         <span class="image main"><img src="{{site.baseurl}}/assets/images/Kindred_Sutton_May15.jpg" alt="" /></span>
 </div>
 <div class="4u 12u$(medium)">
-<span class="image main"><img src="#" alt="" /></span>
 </div>
 </div>
 

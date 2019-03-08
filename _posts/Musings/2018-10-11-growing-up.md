@@ -18,12 +18,10 @@ categories: Musings
 
 <div class="row uniform">
 <div class="4u 12u$(medium)">
-<span class="image main"><img src="#" alt="" /></span>
 </div>
 	<div class="4u 12u$(medium)">
         <span class="image main"><img src="{{site.baseurl}}/assets/images/frustrated_growing_up_post.jpg" alt="" /></span>
 </div>
 <div class="4u 12u$(medium)">
-<span class="image main"><img src="#" alt="" /></span>
 </div>
 </div>
