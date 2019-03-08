@@ -3,7 +3,7 @@ title: Musings of an Enlightened Idiot
 subtitle: by Gautham Vasan 
 email: gauthamv dot 529 at gmail dot com
 description: "Gautham's personal blog"
-baseurl: "/enlightenedidiot" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Gautham Vasan
 street_address: 
