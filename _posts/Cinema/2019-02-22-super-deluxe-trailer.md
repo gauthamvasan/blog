@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Super Deluxe Trailer: உசுரு போச்சுன்னா மசுரு போச்சுன்னு... கவலையே படாம... நாக்க நீட்டி, தேனை நக்கி... ஆகான்னு சொன்னா?"
-subtitle: 
+title: "Super Deluxe Trailer"
+subtitle: "This is not going to be an ordinary film. We're going to witness something special."
 date: 2019-02-22 21:12:02 -0400
 categories: Cinema
 ---
