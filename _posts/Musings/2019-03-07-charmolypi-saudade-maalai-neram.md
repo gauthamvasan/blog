@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Charmolypi & The Maalai Neram (மாலை நேரம்) Connection"
+title: "Charmolypi, Saudade & The Maalai Neram (மாலை நேரம்) Connection"
 subtitle: 
 date: 2019-03-07 21:22:57 -0400
 categories: [Musings]
@@ -24,7 +24,28 @@ categories: [Musings]
 
 <p align="justify"> Now how is this song related to any of my ramblings? Well, for some reason, I remembered Naresh Balaji's Nokia 5800 as soon as I heard this song. After all, that was the first time I heard it. I've changed quite a bit over 8 years. I've had my own struggles and failures. A boy who was once a naive, optimistic, idealist has turned into a jaded, cautiously optimistic, realist. I finally have the maturity to truly appreciate the song. The bittersweet symphony of the song is just magical. Andrea's Anglo-Indian pronunciation of Tamil lyrics adds a certain charm to the song. All I could really do is sit in front of a lake or a river, listen to this song on loop and take a nice, long stroll through memory lane. As soon as I finished listening to this song, I sent a link to Naresh asking if he remembered the song. In his trademark style, he replied - "Ha ha! Yeah da. அது ஒரு காலம்" :) </p>
 
-<p align="justify"> If I have to describe the way this song makes me feel in one word, it has to be the greek word <b>Charmolypi</b>. </p>
+<p align="justify"> This song evokes a two distinct sets of emotions in me - (i) related to the actual tone and lyrics of the song (ii) my previous life in Trichy. A major chunk of what I've been talking about so far is accurately captured by the Portugese word <b>Saudade</b>: </p>
+
+<div class="row uniform">
+<div class="4u 12u$(medium)">
+</div>
+	<div class="4u 12u$(medium)">
+        <span class="image main"><img src="{{site.baseurl}}/assets/images/saudade.png" alt="" /></span>
+</div>
+<div class="4u 12u$(medium)">
+</div>
+</div>
+
+<p align="justify"> This word is starting to grow on me :) The following threads (not an exhaustive list) can be categorized under Saudade: </p>
+<ul>
+    <li> my longing for things past </li> 
+    <li> my gratitude for all the experiences (good and bad) that've made me who I am today </li>
+    <li> a bittersweet smile when looking back at the unaltered past, at the idealism and folly of youth </li>
+    <li> a realization that those carefree, happy, good old days are gone </li>
+</ul>
+
+
+<p align="justify"> But Saudade isn't what the song is about. Saudade is a side-effect of my adulthood. It's a reminder that I have more freedom and responsibilities. If I have to describe the way this song (by itself) makes me feel in one word, it has to be the greek word <b>Charmolypi</b>. </p>
 
 <div class="row uniform">
 <div class="4u 12u$(medium)">
@@ -36,12 +57,10 @@ categories: [Musings]
 </div>
 </div>
 
-<p align="justify"> A beautiful word isn't it. It's perfect. It captures so many nuanced emotions (not an exhaustive list): </p>
-<ul>
-    <li> my longing for things past </li> 
-    <li> my gratitude for all the experiences (good and bad) that've made me who I am today </li>
-    <li> a bittersweet smile when looking back at the unaltered past, at the idealism and folly of youth </li>
-    <li> a realization that those carefree, happy, good old days are gone </li>
-</ul>
+<p align="justify"> A beautiful word isn't it. It's perfect. It captures so many nuanced emotions. Charmolypi is a mixed feeling of happiness, while being sad. In hindsight, there were so many mistakes I could have easily avoided. There's regret and repentance associated with those memories. I've been horrified at my self-destructive streaks just for the sake of misguided, short-term relief. Yet they made me a better person towards the end. They fill me with the "light of forgiveness" and hope for the future. A phrase in the Tamil lyric - "இது சோகம் ஆனால் ஒரு சுகம்", is the perfect translation of Charmolypi in my opinion. Of course, with a song like this, it's inevitable that we'd go into memories involving exes and all the lovely folks who were once a huge part of our lives. But I won't talk about those cherished memories here. Some things after all are still meant to be private :) Listen to this song, enjoy it. If this is your kind of music, I'm sure it'd evoke a motley of emotions. Have a wonderful day :) </p>
 
-<p> One of the lines in the Tamil lyric - "இது சோகம் ஆனால் ஒரு சுகம்", is the perfect translation of Charmolypi in my opinion. Of course, with a song like this, it's inevitable that we'd go into memories involving exes and all the lovely folks who were once a huge part of our lives. But I won't talk about those cherished memories here. Some things after all are still meant to be private :) Listen to this song, enjoy it. If this is your kind of music, I'm sure it'd evoke a motley of emotions. Have a wonderful day :) </p>
+
+<!-- ----------------------------------------------------------------------------------------------------------------- -->
+<hr class="major" />
+
+<p align="justify"> <b>P.S:</b> Huge thanks to Keerthana Manivannan for adding nuance to my post! She pointed out that I probably meant Saudade instead of Charmolypi. She's absolutely right based on the context of the <a href="https://github.com/gauthamvasan/blog/commit/e15dc9698afa32721dfe257d09130f065a3ecc6c">original post</a>. I initially wrote the post partly as an effort to better understand my emotions. Conflicting thoughts and feelings are quite hard for me to decode. I believe I was experiencing a strange mix Saudade and Charmolypi while listening to the song. Saudade when it comes to my high-school and undergrad friendships, Charmolypi when I recollect some bittersweet memories the song evokes :)   </p>
