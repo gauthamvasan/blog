@@ -45,7 +45,7 @@ categories: [Musings]
 </ul>
 
 
-<p align="justify"> But Saudade isn't what the song is about. Saudade is a side-effect of my adulthood. It's a reminder that I have more freedom and responsibilities. If I have to describe the way this song (by itself) makes me feel in one word, it has to be the greek word <b>Charmolypi</b>. </p>
+<p align="justify"> But Saudade isn't what the song is about. Saudade is a side-effect of my adulthood. It's a reminder that I'm held accountable for my actions and have an enormous burden of responsibility. If I have to describe the way this song (by itself) makes me feel in one word, it has to be the greek word <b>Charmolypi</b>. </p>
 
 <div class="row uniform">
 <div class="4u 12u$(medium)">
