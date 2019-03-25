@@ -24,7 +24,7 @@ categories: [Musings]
 
 <p align="justify"> Now how is this song related to any of my ramblings? Well, for some reason, I remembered Naresh Balaji's Nokia 5800 as soon as I heard this song. After all, that was the first time I heard it. I've changed quite a bit over 8 years. I've had my own struggles and failures. A boy who was once a naive, optimistic, idealist has turned into a jaded, cautiously optimistic, realist. I finally have the maturity to truly appreciate the song. The bittersweet symphony of the song is just magical. Andrea's Anglo-Indian pronunciation of Tamil lyrics adds a certain charm to the song. All I could really do is sit in front of a lake or a river, listen to this song on loop and take a nice, long stroll through memory lane. As soon as I finished listening to this song, I sent a link to Naresh asking if he remembered the song. In his trademark style, he replied - "Ha ha! Yeah da. அது ஒரு காலம்" :) </p>
 
-<p align="justify"> This song evokes a two distinct sets of emotions in me - (i) related to the actual tone and lyrics of the song (ii) my previous life in Trichy. A major chunk of what I've been talking about so far is accurately captured by the Portugese word <b>Saudade</b>: </p>
+<p align="justify"> This song evokes a two distinct sets of emotions related to - (i) the actual tone and lyrics of the song (ii) my previous life in Trichy. A major chunk of what I've been talking about so far is accurately captured by the Portugese word <b>Saudade</b>: </p>
 
 <div class="row uniform">
 <div class="4u 12u$(medium)">
@@ -36,7 +36,7 @@ categories: [Musings]
 </div>
 </div>
 
-<p align="justify"> This word is starting to grow on me :) The following threads (not an exhaustive list) can be categorized under Saudade: </p>
+<p align="justify"> This word is starting to grow on me :) "Saudade is a deep emotional state of nostalgic or profound melancholic longing for an absent something or someone that one loves. Moreover, it often carries a repressed knowledge that the object of longing might never return" [sic]. To me (in this context), the faded, yet golden memories of youth is what Saudade is all about. It's finally sinking in that my friends and I are chasing different things in life and that our paths may not overlap as much as it used to. The following threads (not an exhaustive list) can be categorized under Saudade: </p>
 <ul>
     <li> my longing for things past </li> 
     <li> my gratitude for all the experiences (good and bad) that've made me who I am today </li>
@@ -57,7 +57,7 @@ categories: [Musings]
 </div>
 </div>
 
-<p align="justify"> A beautiful word isn't it. It's perfect. It captures so many nuanced emotions. Charmolypi is a mixed feeling of happiness, while being sad. In hindsight, there were so many mistakes I could have easily avoided. There's regret and repentance associated with those memories. I've been horrified at my self-destructive streaks just for the sake of misguided, short-term relief. Yet they made me a better person towards the end. They fill me with the "light of forgiveness" and hope for the future. A phrase in the Tamil lyric - "இது சோகம் ஆனால் ஒரு சுகம்", is the perfect translation of Charmolypi in my opinion. Of course, with a song like this, it's inevitable that we'd go into memories involving exes and all the lovely folks who were once a huge part of our lives. But I won't talk about those cherished memories here. Some things after all are still meant to be private :) Listen to this song, enjoy it. If this is your kind of music, I'm sure it'd evoke a motley of emotions. Have a wonderful day :) </p>
+<p align="justify"> A beautiful word isn't it. It's perfect. It captures so many nuanced emotions. Charmolypi is a mixed feeling of happiness, while being sad. A phrase in the Tamil lyric - "இது சோகம் ஆனால் ஒரு சுகம்", is the perfect translation of Charmolypi in my opinion (the primary meaning). Of course, with a song like this, it's inevitable that we'd go into memories involving exes and all the lovely folks who were once a huge part of our lives. But I won't talk about those cherished memories here. Some things after all are still meant to be private :) In hindsight, there were so many mistakes I could have easily avoided. There's regret and repentance associated with those memories. I've been horrified at my self-destructive streaks just for the sake of short-term relief. As misguided as it was then, those experiences made me a better person towards the end. Listen to this song, enjoy it. If this is your kind of music, I'm sure it'd evoke a motley of emotions. Hopefully, you have the time and patience to decipher your own thoughts and feelings. Have a wonderful day :) </p>
 
 
 <!-- ----------------------------------------------------------------------------------------------------------------- -->
