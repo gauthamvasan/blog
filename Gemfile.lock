@@ -251,6 +251,7 @@ DEPENDENCIES
   editorial_jekyll_theme!
   github-pages
   jekyll (~> 3.3)
+  jekyll-feed
 
 BUNDLED WITH
    1.16.5

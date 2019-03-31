@@ -30,3 +30,6 @@ markdown: kramdown
 
 # Categories
 permalink: /:categories/:title/
+
+plugins:
+  - jekyll-feed
