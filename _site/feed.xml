@@ -7,6 +7,27 @@
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>How Can You Subscribe To My Blog?</title>
+        <description>&lt;h3&gt;SUBSCRIBE&lt;/h3&gt;
+&lt;p align=&quot;justify&quot;&gt; This site syndicates content via RSS (Really Simple Syndication) — which is an XML-based format for sharing and distributing Web content. Using an RSS reader, you can view data feeds from various news sources and blog sites in a central location. &lt;/p&gt;
+
+&lt;h3&gt;How So I Sign Up For RSS Feeds? What is an RSS Reader?&lt;/h3&gt;
+&lt;p align=&quot;justify&quot;&gt; To subscribe to RSS feeds, you need an RSS Reader (or Feed/News Aggregator). These programs (and services) will download and display RSS feeds for you. A number of free and commercial News Aggregators are available for download. Personally, I use &lt;a href=&quot;https://feedly.com&quot;&gt;Feedly&lt;/a&gt;. If you'd like to setup an RSS feed for your own jekyll-based github page, read this &lt;a href=&quot;https://help.github.com/en/articles/atom-rss-feeds-for-github-pages&quot;&gt;post&lt;/a&gt;.  &lt;/p&gt;
+
+&lt;h3&gt; What Are The RSS Feed(s) For This Site? &lt;/h3&gt;
+&lt;p align=&quot;justify&quot;&gt;&lt;a href=&quot;http://localhost:4000/feed.xml&quot; class=&quot;icon fa-rss&quot; target=&quot;_blank&quot;&gt; All Posts&lt;/a&gt; &lt;/p&gt;
+
+&lt;!-- ----------------------------------------------------------------------------------------------------------------- --&gt;
+&lt;hr class=&quot;major&quot; /&gt;
+
+&lt;p align=&quot;justify&quot;&gt; &lt;b&gt;P.S:&lt;/b&gt; I lifted most of the content from the lunar baboon subscription &lt;a href=&quot;http://www.lunarbaboon.com/subscribe/&quot;&gt;page&lt;/a&gt;. It's extremely clear and I'd like to reuse it. &lt;/p&gt;
+</description>
+        <pubDate>Sun, 31 Mar 2019 11:58:55 -0400</pubDate>
+        <link>http://localhost:4000//random/how-to-subscribe-to-my-blog/</link>
+        <guid isPermaLink="true">http://localhost:4000//random/how-to-subscribe-to-my-blog/</guid>
+      </item>
+    
+      <item>
         <title>Charmolypi, Saudade &amp; The Maalai Neram (மாலை நேரம்) Connection</title>
         <description>&lt;p align=&quot;justify&quot;&gt; Great music has a tendency to leave an indelible impression on us. They reflexively remind us of a person, place, memory, event, or feeling. After 5+ years (conservative estimate), I listened to this mesmerizing song again. It hit me right in the feels :) It spawned a lot of threads involving different, but related thoughts and memories. I've listed them as separate paragraphs and tied them all together in the end. Bear with my wordy account. I hope it's worth your while :) &lt;/p&gt;
 
@@ -499,40 +520,6 @@ This book would remain close to my heart for a long, long time. I'm not who I wa
         <pubDate>Tue, 01 Jan 2019 20:57:55 -0500</pubDate>
         <link>http://localhost:4000//random/happy-new-year-2019/</link>
         <guid isPermaLink="true">http://localhost:4000//random/happy-new-year-2019/</guid>
-      </item>
-    
-      <item>
-        <title>Don't Harp On About Your Goals, Shut Up And Work Instead</title>
-        <description>&lt;div class=&quot;row uniform&quot;&gt;
-&lt;div class=&quot;4u 12u$(medium)&quot;&gt;
-&lt;/div&gt;
-	&lt;div class=&quot;4u 12u$(medium)&quot;&gt;
-        &lt;span class=&quot;image main&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/keep-calm-shut-up-and-work-harder.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
-&lt;/div&gt;
-&lt;div class=&quot;4u 12u$(medium)&quot;&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p align=&quot;justify&quot;&gt; It's Christmas! It's the season for self-reflection! Something about the end of a year makes everyone look back, take stock of the past year and plan ahead for long-term goals. Give it a few more days and social media would be abuzz with tons of folks talking about their new year resolutions. Gym, yoga and other fitness club memberships would see a sharp increase and many would go on a healthy diet. You could feel the rekindled sense of optimism in the air :) Eventually, all of this would simmer down, but the cycle is comforting in a way :) &lt;/p&gt;
-
-&lt;p align=&quot;justify&quot;&gt; I'm 24 now. I've lived long enough to see New Year resolutions crash and burn in a spectacular fashion. I'd just shrug my shoulders and think to myself that it was going to fail at some point anyway and move on. That said, I wanted to break this cycle. The gears started to turn in my head. I wanted to figure out why I couldn't follow through with my resolutions. Procrastination and lack of motivation are almost always the usual suspects. But I knew there was some additional underlying reason that wasn't obvious. I found a pattern. Whenever I made goals public, I almost immediately lost my appetite to pursue them. I didn't have the energy or will-power to push towards my goals anymore. I was satisfied with a delusion - a false sense of achievement over the &quot;fact&quot; that my peers thought I was doing great. &lt;/p&gt;
-
-&lt;p align=&quot;justify&quot;&gt; I've known this subconsciously for years now. It's always been anecdotal or some random experience in my life. Never paid any attention to it though. I started looking things up online and came across this &lt;a href=&quot;https://www.psychologytoday.com/us/blog/ulterior-motives/200905/if-you-want-succeed-don-t-tell-anyone&quot;&gt;article&lt;/a&gt; posted in &lt;a href=&quot;https://www.psychologytoday.com/ca&quot;&gt;Psychology Today&lt;/a&gt; back in 2009. It led me to this &lt;a href=&quot;https://www.psych.nyu.edu/gollwitzer/09_Gollwitzer_Sheeran_Seifert_Michalski_When_Intentions_.pdf&quot;&gt;research paper&lt;/a&gt; written by Peter Gollwitzer, Paschal Sheeran, Verena Michalski, and Andrea Siefert about intentions and behaviour. It confirmed my unsubstantiated fears - making goals public just might backfire. &lt;/p&gt;
-
-&lt;p align=&quot;justify&quot;&gt; Think about all the important goals in your life (for e.g., a career path, charity, climbing Mt. Everest, setting up a family, etc). The authors argue that all these goals involve a commitment to an &lt;i&gt;identity goal&lt;/i&gt;. It ultimately influences the concept of who you are. Apparently, announcing such identity goals in public could decrease the likelihood that you would actually work towards it. Let me give you an example: When I was in high school, when a friend once asked me what I was going to do over a weekend, I told her that I had IIT classes and a lot of prep to do. While I did attend the classes, I hardly touched my books. By telling her that I was going to study, I already &quot;knew&quot; that she was starting to think of me as a smart, hard-working guy. My identity goal was partially satisfied and I didn't work hard enough for my actual goal. &lt;/p&gt;
-
-&lt;p align=&quot;justify&quot;&gt; Here's an excerpt from the article that I really liked: &lt;/p&gt;
-&lt;blockquote&gt;    
-    These research results suggest that wanting to have a particular identity is an important motivator in carrying out the activities one needs to perform to succeed. When those activities are the only marker that you and others have that you have taken on a particular identity, then your motivation to work hard will be strong. When there are other ways to communicate your identity to others, your motivation to work hard will not be as strong. So when you are just starting out on the road toward a big undertaking, it is probably best to let your actions express your intentions louder than your words. 
-&lt;/blockquote&gt;
-
-&lt;p&gt;In summary, shut up, work your ass off and let the results do all the talking :) Merry Christmas and have a prosperous New Year y’all!!&lt;/p&gt;
-</description>
-        <pubDate>Tue, 25 Dec 2018 10:58:23 -0500</pubDate>
-        <link>http://localhost:4000//musings/shut-up-and-work/</link>
-        <guid isPermaLink="true">http://localhost:4000//musings/shut-up-and-work/</guid>
       </item>
     
   </channel>
