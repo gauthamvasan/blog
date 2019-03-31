@@ -10,13 +10,13 @@ categories: [Cinema, Random]
 
 <div class="row uniform">
 <div class="4u 12u$(medium)">
-<span class="image main"><img src="{{site.baseurl}}/assets/images/Alaipayuthey/track_and_tower_trail.jpg" alt="" /></span>
+<span class="image main"><img src="{{site.url}}/assets/images/Alaipayuthey/track_and_tower_trail.jpg" alt="" /></span>
 </div>
 	<div class="4u 12u$(medium)">
-        <span class="image main"><img src="{{site.baseurl}}/assets/images/Alaipayuthey/centennial_ridge.jpg" alt="" /></span>
+        <span class="image main"><img src="{{site.url}}/assets/images/Alaipayuthey/centennial_ridge.jpg" alt="" /></span>
 </div>
 <div class="4u 12u$(medium)">
-<span class="image main"><img src="{{site.baseurl}}/assets/images/Alaipayuthey/centennial_ridge_2.jpg" alt="" /></span>
+<span class="image main"><img src="{{site.url}}/assets/images/Alaipayuthey/centennial_ridge_2.jpg" alt="" /></span>
 </div>
 </div>
 

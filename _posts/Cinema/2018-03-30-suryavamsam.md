@@ -10,7 +10,7 @@ categories: Cinema
 <div class="4u 12u$(medium)">
 </div>
 	<div class="4u 12u$(medium)">
-        <span class="image main"><img src="{{site.baseurl}}/assets/images/suryavamsam_meme.jpg" alt="" /></span>
+        <span class="image main"><img src="{{site.url}}/assets/images/suryavamsam_meme.jpg" alt="" /></span>
 </div>
 <div class="4u 12u$(medium)">
 </div>
@@ -24,7 +24,7 @@ categories: Cinema
 <div class="4u 12u$(medium)">
 </div>
 	<div class="4u 12u$(medium)">
-        <span class="image main"><img src="{{site.baseurl}}/assets/images/payasam_suryavamsam.jpg" alt="" /></span>
+        <span class="image main"><img src="{{site.url}}/assets/images/payasam_suryavamsam.jpg" alt="" /></span>
 </div>
 <div class="4u 12u$(medium)">
 </div>

@@ -20,7 +20,7 @@ categories: Musings
 <div class="4u 12u$(medium)">
 </div>
 	<div class="4u 12u$(medium)">
-        <span class="image main"><img src="{{site.baseurl}}/assets/images/frustrated_growing_up_post.jpg" alt="" /></span>
+        <span class="image main"><img src="{{site.url}}/assets/images/frustrated_growing_up_post.jpg" alt="" /></span>
 </div>
 <div class="4u 12u$(medium)">
 </div>

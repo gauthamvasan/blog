@@ -8,13 +8,13 @@ categories: Cinema
 
 <div class="row uniform">
 <div class="4u 12u$(medium)">
-<span class="image main"><img src="{{site.baseurl}}/assets/images/vaaranam_aayiram/vaaranam_bg.jpg" alt="" /></span>
+<span class="image main"><img src="{{site.url}}/assets/images/vaaranam_aayiram/vaaranam_bg.jpg" alt="" /></span>
 </div>
 	<div class="4u 12u$(medium)">
-        <span class="image main"><img src="{{site.baseurl}}/assets/images/vaaranam_aayiram/krishnan_malini.jpg" alt="" /></span>
+        <span class="image main"><img src="{{site.url}}/assets/images/vaaranam_aayiram/krishnan_malini.jpg" alt="" /></span>
 </div>
 <div class="4u 12u$(medium)">
-<span class="image main"><img src="{{site.baseurl}}/assets/images/vaaranam_aayiram/vaaranam_poster_2.jpg" alt="" /></span>
+<span class="image main"><img src="{{site.url}}/assets/images/vaaranam_aayiram/vaaranam_poster_2.jpg" alt="" /></span>
 </div>
 </div>
 
@@ -26,13 +26,13 @@ categories: Cinema
 
 <div class="row uniform">
 <div class="4u 12u$(medium)">
-<span class="image main"><img src="{{site.baseurl}}/assets/images/vaaranam_aayiram/anjala.jpeg" alt="" /></span>
+<span class="image main"><img src="{{site.url}}/assets/images/vaaranam_aayiram/anjala.jpeg" alt="" /></span>
 </div>
 	<div class="4u 12u$(medium)">
-        <span class="image main"><img src="{{site.baseurl}}/assets/images/vaaranam_aayiram/vaaranam_surya_2.jpg" alt="" /></span>
+        <span class="image main"><img src="{{site.url}}/assets/images/vaaranam_aayiram/vaaranam_surya_2.jpg" alt="" /></span>
 </div>
 <div class="4u 12u$(medium)">
-<span class="image main"><img src="{{site.baseurl}}/assets/images/vaaranam_aayiram/train_scene.jpg" alt="" /></span>
+<span class="image main"><img src="{{site.url}}/assets/images/vaaranam_aayiram/train_scene.jpg" alt="" /></span>
 </div>
 </div>
 

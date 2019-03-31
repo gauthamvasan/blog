@@ -19,7 +19,7 @@ categories: TravelDiaries
 
 <h2 class="section-heading">The Journey</h2> 
 
-<span class="image main"><img src="{{site.baseurl}}/assets/images/velliangiri/8.jpg" alt="" /></span>
+<span class="image main"><img src="{{site.url}}/assets/images/velliangiri/8.jpg" alt="" /></span>
 <center><p><small>Selfie en route to Coimbatore :D</small></p></center>
 
 <p align="justify"> We started from our campus at around 3:50pm to catch the Janshadabdi Express from Mayiladuthurai to Coimbatore at 5:00pm. We arrived half an hour early at the railway station and headed straight to the nearby hotel. The trek was planned to be an all nighter where we would climb all night to the top of the 7th hill (Yeah, there are 7 hills) and watch the sunrise, take some pictures where some could potentially be our Facebook Dps, take a bath on a pond on the way down and head back down the hill. Not a complicated plan. Except we were going to climb a steep hill with a forest (bears, simhams, monkeys, elephants, etc.) and it obviously didn't have any toilets. Well you could do your business in the bushes, but a vast majority of us decided not to. Aravind had this bright idea (not so much :P) of eating a lot in the railway station so that you'd be forced to use the restroom before the trek. So effectively you didn't have to worry the next day. Let's just say this idea wasn't taken seriously by everyone except a few. So amidst all this planning at Vasanta Bhavan in the Railway station, the train arrived at around 4:50pm and we got in just to find out our seats were randomly allocated. We didn't feel like sitting anyways, so for the most part of the journey we were standing near the entrance of the train carriages, sticking our heads out and posing for pics, talking about Space, India, Philosophy, School and college life, pretty much everything that comes to mind. When you are travelling by the countryside with idyllic settings, it's hard not to reminisce over the past and enjoy the present with your near and dear ones. We created a ruckus in the train. But funnily though, a few passengers seemd to actually enjoy it. Probably it reminded them about their carefree days as college goers. A pleasant gentleman nearby warned us about the dangers lurking at Vellaingiri hills (bears, elephants, etc.) and told us about the bus routes and cabs available to the place. The train ran late and we reached the place around 10:00pm. After dinner, we booked a cab since no buses were available. Ola is not an option since they do not take you away from the city. We booked a Tavera from Fast track for the Nine of us and started heading 42kms away from the city. </p>
@@ -30,7 +30,7 @@ categories: TravelDiaries
 
 <hr class="major" />
 
-<span class="image main"><img src="{{site.baseurl}}/assets/images/velliangiri/10.jpg" alt="" /></span>                                                                
+<span class="image main"><img src="{{site.url}}/assets/images/velliangiri/10.jpg" alt="" /></span>                                                                
 <center><p><small>At the entrance of the Shiva Temple, Velliangiri hills.</small></p></center>
 
 <h2>The First Hill</h2>
@@ -68,30 +68,30 @@ categories: TravelDiaries
 <h2> On Top Of The Clouds, Literally</h2>
 <p align="justify"> The elation of reaching the top of the hill cannot be described merely in words. We arrived at around 5:45am and we still had plenty of time to witness the spectacle of the sun rising over the horizon. As we started walking towards the temple, we saw many caves and shivalingams and sadhus near the place. Plenty of Vels were thrust all around the place. I could feel the sanctity and tranquility of the place and was enraptured with the bucolic settings that the place offered. We were overjoyed when we could hear TSB, Boxer, Raam and SV's voice and we rushed to meet them. They too were psyched to find us arrive just in time and hollered back to us with instructions towards their location. They had found a spectacular spot, i.e., a rock from where we could see the sun rise without any obstruction in view and overlooking the clouds. Aravind was totally exhausted and started resting near the spot. Naresh and Adhavan went around the place and stretched their legs for a while. Sarathy and I headed towards the rock and lay next to them. We had all put on our sweatshirts by the end of the 6th hill and it was getting colder every minute. But we didn't care though. We were most certainl there to make the most of what we had. It was the perfect location to witness the sun rise. Looking at the crimson of the sun spread over the entire horizon is not something everyone sees in their lifetime and I'm happy that we did. It was a moment where a picture would speak louder than a 1000 words. Once the sun showed its head, we started cheering and went ahead to take pics and selfies. Like boxer aptly described it, the clouds looked like bed over which we wanted to jump, play and sleep. Naresh was in a some sort of zen state of mind and was focussed on capturing the scenic beauty on screen. </p>
 
-<span class="image main"><img src="{{site.baseurl}}/assets/images/velliangiri/7.jpg" alt="" /></span>
+<span class="image main"><img src="{{site.url}}/assets/images/velliangiri/7.jpg" alt="" /></span>
 <center><p><small>Adhav and Aravind take a small nap while the rest of us are frolicking around</small></p></center>
 
 <p align="justify"> It probably wasn't the most difficult trekking spot. It's most definitely not even comparable to climbing the Mount Everest. But that didn't matter. For us, it was in the small things - the colours of the trees, the shape of the rocks, the caves and shiva lingas nearby, the clouds which brushed past against us. We were just a bunch of euphoric idiots in their early twenties, blissfully unaware of the troubles we had in our real world. At that moment, we didn't have to worry about our future, think about what we were doing with our life or make any decisions. All we had to do was be that immature kid we always wanted to be, jump up and down, make funny faces and act like we owned the place. I guess that is how life was meant to be. Well, we have a foolproof way of messing up things and making our lives as complicated as possible. Sorry to drift apart in to some strange musings about life. But when we hike over such a difficult trek, it kinda puts life into perspective. It gives you ample time to refelct upon your actions and release any bottled up stress or anger. All of us were either atheists or agnostics. So we really didn't spend much time paying our respects to the gods or sadhus. But our hearts go out to the ones that built this heaven. The place is so surreal that it seriously raises the questions about the existence of a creator or some higher power. </p>
 
-<span class="image main"><img src="{{site.baseurl}}/assets/images/velliangiri/1.jpg" alt="" /></span>
+<span class="image main"><img src="{{site.url}}/assets/images/velliangiri/1.jpg" alt="" /></span>
 <center><p><small>Selfie on top of Velliangiri hills</small></p></center>
 
-<span class="image main"><img src="{{site.baseurl}}/assets/images/velliangiri/3.jpg" alt="" /></span>
+<span class="image main"><img src="{{site.url}}/assets/images/velliangiri/3.jpg" alt="" /></span>
 <center><p><small>Trishul in glorious sunlight (PC: Naresh)</small></p></center>
 
-<span class="image main"><img src="{{site.baseurl}}/assets/images/velliangiri/4.jpg" alt="" /></span>
+<span class="image main"><img src="{{site.url}}/assets/images/velliangiri/4.jpg" alt="" /></span>
 <center><p><small>Thalapathy-esque shot with the Trishul, flag and the rising sun (PC: Raam Aravind)</small></p></center>
 
-<span class="image main"><img src="{{site.baseurl}}/assets/images/velliangiri/5.jpg" alt="" /></span>
+<span class="image main"><img src="{{site.url}}/assets/images/velliangiri/5.jpg" alt="" /></span>
 <center><p><small>Trishul basking under the glorious sun (PC: Naresh)</small></p></center>
 
-<span class="image main"><img src="{{site.baseurl}}/assets/images/velliangiri/6.jpg" alt="" /></span>
+<span class="image main"><img src="{{site.url}}/assets/images/velliangiri/6.jpg" alt="" /></span>
 <center><p><small>Thalapathy-esque shot with the Trishul, flag and the rising sun (PC: Raam Aravind)</small></p></center>
 
-<span class="image main"><img src="{{site.baseurl}}/assets/images/velliangiri/9.jpg" alt="" /></span>
+<span class="image main"><img src="{{site.url}}/assets/images/velliangiri/9.jpg" alt="" /></span>
 <center><p><small>TSB and I trying to recreate the Kamehameha from Dragon Ball Z</small></p></center>
 
-<span class="image main"><img src="{{site.baseurl}}/assets/images/velliangiri/2.jpg" alt="" /></span>
+<span class="image main"><img src="{{site.url}}/assets/images/velliangiri/2.jpg" alt="" /></span>
 <center><p><small>We're on top of the clouds! Yay!!</small></p></center>
 
 
@@ -101,7 +101,7 @@ categories: TravelDiaries
 <h2> The Journey Back To The Base</h2>
 <p align="justify"> Once all the fun and frolic of taking pics was over, we had our breakfast (yeah, some biscuits, fruits and cereals) we rested for a while and decided to head downhill. Climbing downhill was an altogether different task since you could let gravity do its job for you. One misstep and you could go tumbling forward a long while. Basically its like humpty dumpty had a great fall. But climbing down with small steps is really difficult. So we decided to jog and use the momentum to travel at a much faster pace. We reached the pond very soon and decided to wash ourselves using its water. It was around 9:30am and the area was still covered with mist. Switching off the phones and tablets proved to be brilliant decision. We stripped down to our boxer shorts and stepped into the pond. Though it looked like normal pond with a surrounding temperature of around 20 degrees, I swear, it felt like ice cubes pricking all over my body when I got in to it. It's depth was probably around only one to two feet. But the ice cold water quickly jolted us to our senses. The human body is indeed a fascinating piece of machinery. It quickly learns to adapt to such a temperature and we started to slowly ease ourselves in to the pond. We splashed water on each other, used soap to wash ourselves and even jumped around in that area. The dirt and algae had settled over time and we seemed to be making the water murky with all our monkey business. I guess it was no use taking bath in that water with the sole purpose of cleansing ourselves. But it did rejuvenate us and we were all fresh and brimming with a new found energy and confidence. </p>
 
-<span class="image main"><img src="{{site.baseurl}}/assets/images/velliangiri/11.jpg" alt="" /></span>
+<span class="image main"><img src="{{site.url}}/assets/images/velliangiri/11.jpg" alt="" /></span>
 <center><p><small>The gym boys posing in ice cold water</small></p></center>
 
 <p align="justify"> Climbing down the next few hills was pretty normal and uneventful except for us talking about random stuff and pulling each others leg. The hills and forests appeared even more beautiful amidst the mist and sun light. SV injured himelf a little by spraining his ankle and falling down once. Adhavan sprained his knee somewhere near the 4th hill and started limping with his stick in a similar fashion to Kaipulla Vadivelu from Winner. Though we did make fun of his "Avvaiyar" walk at several instances, we had to admit that it was going to be a increasingly difficult climb for him downhill. You could say he didn't have any other choice but to climb down, but his resolve to climb down at the best possible pace was admirable. </p>

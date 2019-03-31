@@ -10,7 +10,7 @@ categories: Media
 <div class="4u 12u$(medium)">
 </div>
 	<div class="4u 12u$(medium)">
-        <span class="image main"><img src="{{site.baseurl}}/assets/images/hindu_article_pose.jpg" alt="" /></span>
+        <span class="image main"><img src="{{site.url}}/assets/images/hindu_article_pose.jpg" alt="" /></span>
 </div>
 <div class="4u 12u$(medium)">
 </div>

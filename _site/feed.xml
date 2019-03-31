@@ -32,7 +32,7 @@
 &lt;div class=&quot;4u 12u$(medium)&quot;&gt;
 &lt;/div&gt;
 	&lt;div class=&quot;4u 12u$(medium)&quot;&gt;
-        &lt;span class=&quot;image main&quot;&gt;&lt;img src=&quot;//assets/images/saudade.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+        &lt;span class=&quot;image main&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/saudade.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
 &lt;/div&gt;
 &lt;div class=&quot;4u 12u$(medium)&quot;&gt;
 &lt;/div&gt;
@@ -52,7 +52,7 @@
 &lt;div class=&quot;4u 12u$(medium)&quot;&gt;
 &lt;/div&gt;
 	&lt;div class=&quot;4u 12u$(medium)&quot;&gt;
-        &lt;span class=&quot;image main&quot;&gt;&lt;img src=&quot;//assets/images/charmolypi.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+        &lt;span class=&quot;image main&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/charmolypi.jpg&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
 &lt;/div&gt;
 &lt;div class=&quot;4u 12u$(medium)&quot;&gt;
 &lt;/div&gt;
@@ -262,7 +262,7 @@ This book would remain close to my heart for a long, long time. I'm not who I wa
     
       <item>
         <title>Excerpts From Surely You're Joking Mr. Feynman And My Thoughts About Them</title>
-        <description>&lt;p align=&quot;justify&quot;&gt; &lt;b&gt;P.S: &lt;/b&gt; I throughly enjoyed reading the cult classic &lt;i&gt;Surely You're Joking Mr. Feynman&lt;/i&gt;. For my review of the book, please check this &lt;a href=&quot;//bookreviews/surely-you-are-joking-mr-feynman/&quot;&gt;post&lt;/a&gt;. This post is going to be quite long. I usually highlight my favourite lines/paragraphs in the books I read. For the first time, I'm going to list them in a public post and share my thoughts my about some of them. This is not meant to be preachy or a post on life lessons. I apologize in advance, if it turns out to be the case! I just need an easy way of accessing these excerpts whenever I feel like re-reading them :) &lt;/p&gt;
+        <description>&lt;p align=&quot;justify&quot;&gt; &lt;b&gt;P.S: &lt;/b&gt; I throughly enjoyed reading the cult classic &lt;i&gt;Surely You're Joking Mr. Feynman&lt;/i&gt;. For my review of the book, please check this &lt;a href=&quot;http://localhost:4000/bookreviews/surely-you-are-joking-mr-feynman/&quot;&gt;post&lt;/a&gt;. This post is going to be quite long. I usually highlight my favourite lines/paragraphs in the books I read. For the first time, I'm going to list them in a public post and share my thoughts my about some of them. This is not meant to be preachy or a post on life lessons. I apologize in advance, if it turns out to be the case! I just need an easy way of accessing these excerpts whenever I feel like re-reading them :) &lt;/p&gt;
 
 &lt;!-- ----------------------------- --&gt;
 &lt;h3&gt; #1: Own up to your mistakes&lt;/h3&gt;
@@ -392,7 +392,7 @@ This book would remain close to my heart for a long, long time. I'm not who I wa
 
 &lt;!-- ----------------------------------------------------------------------------------------------------------------- --&gt;
 
-&lt;p align=&quot;justify&quot;&gt; &lt;b&gt;P.S: &lt;/b&gt; In an effort to avoid spoilers, I did not talk about specific stories or excerpts from the book. If you are interested in reading such a post, please find it &lt;a href=&quot;//musings/excerpts-surely-you-are-joking-mr-feynman/&quot;&gt;here&lt;/a&gt;. &lt;/p&gt;
+&lt;p align=&quot;justify&quot;&gt; &lt;b&gt;P.S: &lt;/b&gt; In an effort to avoid spoilers, I did not talk about specific stories or excerpts from the book. If you are interested in reading such a post, please find it &lt;a href=&quot;http://localhost:4000/musings/excerpts-surely-you-are-joking-mr-feynman/&quot;&gt;here&lt;/a&gt;. &lt;/p&gt;
 </description>
         <pubDate>Sat, 19 Jan 2019 10:42:35 -0500</pubDate>
         <link>http://localhost:4000//bookreviews/surely-you-are-joking-mr-feynman/</link>
@@ -433,7 +433,7 @@ This book would remain close to my heart for a long, long time. I'm not who I wa
 &lt;div class=&quot;4u 12u$(medium)&quot;&gt;
 &lt;/div&gt;
 &lt;div class=&quot;4u 12u$(medium)&quot;&gt;
-    &lt;span class=&quot;image main&quot;&gt;&lt;img src=&quot;//assets/images/comfort-stretch-panic.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+    &lt;span class=&quot;image main&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/comfort-stretch-panic.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
 &lt;/div&gt;
 &lt;div class=&quot;4u 12u$(medium)&quot;&gt;
 &lt;/div&gt;
@@ -449,7 +449,7 @@ This book would remain close to my heart for a long, long time. I'm not who I wa
 &lt;div class=&quot;4u 12u$(medium)&quot;&gt;
 &lt;/div&gt;
 	&lt;div class=&quot;4u 12u$(medium)&quot;&gt;
-        &lt;span class=&quot;image main&quot;&gt;&lt;img src=&quot;//assets/images/zone-of-proximal-development.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+        &lt;span class=&quot;image main&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/zone-of-proximal-development.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
 &lt;/div&gt;
 &lt;div class=&quot;4u 12u$(medium)&quot;&gt;
 &lt;/div&gt;
@@ -507,7 +507,7 @@ This book would remain close to my heart for a long, long time. I'm not who I wa
 &lt;div class=&quot;4u 12u$(medium)&quot;&gt;
 &lt;/div&gt;
 	&lt;div class=&quot;4u 12u$(medium)&quot;&gt;
-        &lt;span class=&quot;image main&quot;&gt;&lt;img src=&quot;//assets/images/keep-calm-shut-up-and-work-harder.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
+        &lt;span class=&quot;image main&quot;&gt;&lt;img src=&quot;http://localhost:4000/assets/images/keep-calm-shut-up-and-work-harder.png&quot; alt=&quot;&quot; /&gt;&lt;/span&gt;
 &lt;/div&gt;
 &lt;div class=&quot;4u 12u$(medium)&quot;&gt;
 &lt;/div&gt;

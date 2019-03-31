@@ -48,7 +48,7 @@ layout: default
     <p> I've categorized my posts into the different headers listed in the sidebar. I'd imagine that I'll start including more categories once I hit my stride and write fairly regularly. Regardless, all of my posts sorted by category and date can be found in the link below: </p>
     
     <center>
-    <a href="{{site.baseurl}}/categories" class="button">All Posts</a>
+    <a href="{{site.url}}/categories" class="button">All Posts</a>
     </center>
     
     <br>
@@ -59,55 +59,55 @@ layout: default
     
     <div class="4u 12u$(medium)">
     <center>
-    <a href="{{site.baseurl}}/about_me" class="button">About Me</a>
+    <a href="{{site.url}}/about_me" class="button">About Me</a>
     </center>
     </div>
     
     <div class="4u 12u$(medium)">
     <center>
-    <a href="{{site.baseurl}}/book_reviews" class="button">Book Reviews</a>
+    <a href="{{site.url}}/book_reviews" class="button">Book Reviews</a>
     </center>    
     </div>
     
     <div class="4u 12u$(medium)">
     <center>
-    <a href="{{site.baseurl}}/higher_studies" class="button">Higher Studies</a>
+    <a href="{{site.url}}/higher_studies" class="button">Higher Studies</a>
     </center>
     </div>
     
     <div class="4u 12u$(medium)">
     <center>
-    <a href="{{site.baseurl}}/media" class="button">Media Coverage</a>
+    <a href="{{site.url}}/media" class="button">Media Coverage</a>
     </center>
     </div>
 
     <div class="4u 12u$(medium)">
     <center>
-    <a href="{{site.baseurl}}/cinema" class="button">Moments from Cinema</a>
+    <a href="{{site.url}}/cinema" class="button">Moments from Cinema</a>
     </center>
     </div>
     
     <div class="4u 12u$(medium)">
     <center>
-    <a href="{{site.baseurl}}/musings" class="button">Musings & Stuff</a>
+    <a href="{{site.url}}/musings" class="button">Musings & Stuff</a>
     </center>
     </div>
     
     <div class="4u 12u$(medium)">
     <center>
-    <a href="{{site.baseurl}}/random" class="button">Random</a>
+    <a href="{{site.url}}/random" class="button">Random</a>
     </center>
     </div>
     
     <div class="4u 12u$(medium)">
     <center>
-    <a href="{{site.baseurl}}/tamil" class="button">Tamil Poems & Lyrics</a>
+    <a href="{{site.url}}/tamil" class="button">Tamil Poems & Lyrics</a>
     </center>
     </div>
 
     <div class="4u 12u$(medium)">
     <center>
-    <a href="{{site.baseurl}}/travel" class="button">Travel Diaries</a>
+    <a href="{{site.url}}/travel" class="button">Travel Diaries</a>
     </center>
     </div>
     

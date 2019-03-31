@@ -6,7 +6,7 @@ date: 2019-01-19 14:40:29 -0400
 categories: [Musings]
 ---
 
-<p align="justify"> <b>P.S: </b> I throughly enjoyed reading the cult classic <i>Surely You're Joking Mr. Feynman</i>. For my review of the book, please check this <a href="{{site.baseurl}}/bookreviews/surely-you-are-joking-mr-feynman/">post</a>. This post is going to be quite long. I usually highlight my favourite lines/paragraphs in the books I read. For the first time, I'm going to list them in a public post and share my thoughts my about some of them. This is not meant to be preachy or a post on life lessons. I apologize in advance, if it turns out to be the case! I just need an easy way of accessing these excerpts whenever I feel like re-reading them :) </p>
+<p align="justify"> <b>P.S: </b> I throughly enjoyed reading the cult classic <i>Surely You're Joking Mr. Feynman</i>. For my review of the book, please check this <a href="{{site.url}}/bookreviews/surely-you-are-joking-mr-feynman/">post</a>. This post is going to be quite long. I usually highlight my favourite lines/paragraphs in the books I read. For the first time, I'm going to list them in a public post and share my thoughts my about some of them. This is not meant to be preachy or a post on life lessons. I apologize in advance, if it turns out to be the case! I just need an easy way of accessing these excerpts whenever I feel like re-reading them :) </p>
 
 <!-- ----------------------------- -->
 <h3> #1: Own up to your mistakes</h3>
