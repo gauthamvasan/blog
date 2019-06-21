@@ -2,7 +2,7 @@
 layout: page
 title: "Contemplative Misery vs Blissful Ignorance"
 subtitle:  
-date: 2019-05-08 20:37:54 -0400
+date: 2020-05-08 20:37:54 -0400
 categories: [Musings]
 ---
 
