@@ -6,7 +6,7 @@ date: 2019-06-21 01:49:54 -0400
 categories: [Musings]
 ---
 
-<p align="justify"> <b>P.S:</b> Don't take this post too seriously. I had some fun writing this post inspired by my favourite animated characters. Brownie points if you catch all the Bojack and Rick & Morty reference :) </p>
+<p align="justify"> <b>P.S:</b> Don't take this too seriously. I had some fun writing this post inspired by my favourite animated characters. Brownie points if you catch all the Bojack and Rick & Morty references :) </p>
 
 <div class="row uniform">
 <div class="4u 12u$(medium)">
@@ -32,6 +32,8 @@ categories: [Musings]
 
 <p align="justify"> The way I see it, I have 2 choices. 1) Join that group, partake in the illusion and pretend to be happy on social media, 2) Deem isolation superior, be super choosy and add to the misery :P Right now, I'd rather be miserable and contemplative than ignorant and blissful. Just might change a few years down the line. Does that make me a self-pitying masochist who fetishes his own pain? </p>
 
+
+<p align="justify"> <b>Note:</b> Again, please don't take this too seriously. I myself find it kind of silly to be so self-righteous and supercilious. But still worth an effort to articulate your unfiltered thoughts. Makes life easy if you know what you're dealing with :)  </p>
 
 <!-- ----------------------------------------------------------------------------------------------------------------- -->
 <hr class="major" /> 
