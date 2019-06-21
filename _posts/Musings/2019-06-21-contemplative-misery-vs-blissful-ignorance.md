@@ -6,7 +6,7 @@ date: 2019-06-21 01:49:54 -0400
 categories: [Musings]
 ---
 
-<p align="justify"> <b>P.S:</b> Brownie points if you catch all the Bojack and Rick & Morty reference :) </p>
+<p align="justify"> <b>P.S:</b> Don't take this post too seriously. I had some fun writing this post inspired by my favourite animated characters. Brownie points if you catch all the Bojack and Rick & Morty reference :) </p>
 
 <div class="row uniform">
 <div class="4u 12u$(medium)">
