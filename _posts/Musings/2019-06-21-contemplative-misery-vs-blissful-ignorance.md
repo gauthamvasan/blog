@@ -6,7 +6,7 @@ date: 2019-06-21 01:49:54 -0400
 categories: [Musings]
 ---
 
-<p align="justify"> <b>P.S:</b> Don't take this too seriously. I had some fun writing this post inspired by my favourite animated characters. Brownie points if you catch all the Bojack and Rick & Morty references :) It's a nice exercise to articulate your unfiltered thoughts and add clarity, nuance, etc., to your arguments. </p>
+<p align="justify"> <b>N.B:</b> I had some fun writing this post inspired by my favourite animated characters. Brownie points if you catch all the Bojack and Rick & Morty references :) It's a nice exercise to articulate your unfiltered thoughts and add clarity, nuance, etc., to your arguments. In hindsight, this article might seem like a confused rant, which in a sense is true. But I still believe it's more than that. </p>
 
 <div class="row uniform">
 <div class="4u 12u$(medium)">
