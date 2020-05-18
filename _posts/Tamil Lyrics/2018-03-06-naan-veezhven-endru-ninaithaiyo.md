@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Naan Veezhven Endru Ninaithaiyo? (நான் வீழ்வேனென்று நினைத்தாயோ?)
+title: நான் வீழ்வேனென்று நினைத்தாயோ? (Naan Veezhven Endru Ninaithaiyo?)
 subtitle: Written by Bharathiyar
 date: 2018-03-06 17:35:30 -0400
 categories: [TamilPoetry]
