@@ -95,7 +95,7 @@ categories: [Musings]
 <hr class="major" />
 <!-- ----------------------------------------------------------------------------------------------------------------- -->
 
-## Don't dwell on the outcome, focus on the process 
+## Closing thought: Don't dwell on the outcome, focus on the process 
 <p align="justify"> Another way of saying the same in Tamil is "கடமையை செய் பலனை எதிர்பார்க்காதே". And I'm certain that different religions and cultures have variants of this saying. Funny how proverbs I used to laugh at as a teen have significance as an adult. The primary objective is learning something for yourself. The reward is the pleasure of finding things out and/or accomplishing something. Awards, fame, prestige, etc., are byproducts. When we see a successful person from the outside, the byproducts are visible. But intrinsic rewards and the journey that led to success are hidden from our view. It makes sense that we start by imitating the conspicuous characteristics (i.e., outward aspects) of successful people. Now that I've realized my folly, it's obvious that I need to switch strategies and put in the necessary groundwork. After all, as Seneca put it “errare humanum est, sed perseverare diabolicum: 'to err is human, but to persist (in the mistake) is diabolical.”. It's now clear in my head - the effort precedes the outcome. If that's true, "smartness" is a state of being; sounding smart is an inevitable byproduct. You either have such a state of mind or you don't. There's no pretend. </p>
 
 ## References
