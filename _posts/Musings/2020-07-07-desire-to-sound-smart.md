@@ -38,7 +38,7 @@ categories: [Musings]
 <p align="justify"> P.S: Richard Feynman famously admonished the rote learning system in Brazilian universities in a keynote speech titled <a href="http://calteches.library.caltech.edu/46/2/LatinAmerica.htm">The Problem of Teaching Physics in Latin America</a>. A first person account of the events from Feynman's biography can be found <a href="{{site.url}}/random/feynman-on-brazilian-education-system//">here</a>. I believe a lot of these criticisms are valid even today in India   </p>
 
 ### Pawning off someone else's insights and passing it off as your original thought
-<p align="justify">"My Boy is Wicked Smart", the scene from <a href-"https://en.wikipedia.org/wiki/Good_Will_Hunting">Good Will Hunting</a> that spawned a thousand pop culture references: </p>
+<p align="justify">"My Boy is Wicked Smart", the scene from <a href="https://en.wikipedia.org/wiki/Good_Will_Hunting">Good Will Hunting</a> that spawned a thousand pop culture references: </p>
 
 <center> <iframe width="560" height="315" src="https://www.youtube.com/embed/hIdsjNGCGz4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
 
