@@ -21,7 +21,7 @@ categories: [BookReviews]
 <ol>
     <li> Interactions with other legendary scientists at Princeton and Los Alamos </li>
     <li> Stories on playing the frigideira with a Brazilian Samba school </li>
-    <li> Criticism of the Brazilian education system (somethning that is quite relevant to India as well) </li> 
+    <li> Criticism of the Brazilian education system (something that is quite relevant to India as well) </li> 
     <li> His antics trying to learn art, practicing drawing at a topless restaurant and later commissioned to draw a nude toreador girl being charged by a bull with a man's head </li>
     <li> Learning to play African drums music, then drumming for an all percussion ballet! </li>
     <li> Burning out and then doing science for fun (the plate wobbling story at Cornell) </li>
