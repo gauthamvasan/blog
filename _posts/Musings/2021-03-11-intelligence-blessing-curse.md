@@ -20,8 +20,8 @@ categories: [Musings,Cinema]
 "Rick, the only connection between your unquestionable intelligence and the sickness destroying your family is that everyone in your family, you included, use intelligence to justify sickness. <br>
     <b>You seem to alternate between viewing your own mind as an unstoppable force and as an inescapable curse. <br>
     And I think it's because the only truly unapproachable concept for you is that it's your mind within your control. </b> <br>
-    <b>You chose to come here, you chose to talk -to belittle my vocation- just as you chose to become a pickle. </b> <br>
-You are the master of your universe, and yet you are dripping with rat blood and feces. Your enormous mind literally vegetating by your own hand.  <br> <br> 
+    You chose to come here, you chose to talk -to belittle my vocation- just as you chose to become a pickle.  <br>
+    <b>You are the master of your universe, and yet you are dripping with rat blood and feces. Your enormous mind literally vegetating by your own hand. </b> <br> <br> 
 I have no doubt that you would be bored senseless by therapy, the same way I'm bored when I brush my teeth and wipe my ass. Because the thing about repairing, maintaining, and cleaning is it's not an adventure. There's no way to do it so wrong you might die. It's just work. <br> 
     And the bottom line is, some people are okay going to work, and some people well, some people would rather die. "
 </blockquote>
