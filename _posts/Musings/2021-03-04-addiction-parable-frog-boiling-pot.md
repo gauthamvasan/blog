@@ -47,7 +47,7 @@ categories: [Musings]
 
 <h3> The Parable Of The Boiled Frog </h3>
 
-<p align="justify"> Okay, so this isn't some cautionary tale about the horrors of addiction or some preachy moralistic story meant to scare you straight from any and all drugs. It's all fine and dandy when you are happy and well-adjusted. It's easy to check your impulses and habits when you are happy and well-adjusted. But if you start turning to the bottle or other drugs as a coping/escape mechanism, it's a slippery slope my friend. Initially, you do it just once in a blue moon to relieve the pain, de-stress, and just unwind for the night. But once your brain starts to strongly associate the drug with escape and pleasure, life spirals out of control in what feels a blink of an eye; so much so that you are left wondering how the hell did everything good turn to dust so fast. </p>
+<p align="justify"> Okay, so this isn't some cautionary tale about the horrors of addiction or some preachy moralistic story meant to scare you straight from any and all drugs. It's all fine and dandy when you are happy and well-adjusted. It's easy to check your impulses and habits when life is good. But if you start turning to the bottle or other drugs as a coping/escape mechanism, it's a slippery slope my friend. Initially, you do it once in a blue moon to relieve the pain, de-stress, and just unwind for the night. But once your brain starts to strongly associate the drug with escape and pleasure, life spirals out of control in what feels the blink of an eye; so much so that you are left wondering how the hell did everything good turn to dust so fast. </p>
 
 <p align="justify"> As with all tricks of the devil, there's a catch. Drugs are only a short-term fix. With every use, you slip further and further into a dark pit. The worse your addiction gets, the more you feel that you can't live without the drugs; in fact, you start buying into the false belief that you can't be normal without it. I guess the parable of the boiling frog fits it best:  </p>  
 
@@ -74,7 +74,7 @@ categories: [Musings]
 </div>
 	<div class="4u 12u$(medium)">
         <span class="image main"><img src="{{site.url}}/assets/images/serpent-vision-artidote.gif" alt="" /></span>
-        <caption style="text-align:center">“Sometimes, the things that break your heart end up fixing your vision.” — <a href="https://www.instagram.com/theartidote/?hl=en">The Artidote</a>; Artwork by <a href="https://www.instagram.com/aldousmassie/?fbclid=IwAR2RRJwUs7hbgOeD4MCJ_YzIDEAN0lM04js7VUlAmlnx6JcQpVNYKBzNXrQ">Instagram.com/aldousmassie</a></caption>
+        <caption style="text-align:center">“Sometimes, the things that break your heart <br>end up fixing your vision.” <br> — <a href="https://www.instagram.com/theartidote/?hl=en">The Artidote</a>; Artwork by <a href="https://www.instagram.com/aldousmassie/?fbclid=IwAR2RRJwUs7hbgOeD4MCJ_YzIDEAN0lM04js7VUlAmlnx6JcQpVNYKBzNXrQ">Instagram.com/aldousmassie</a></caption>
 </div>
 <div class="4u 12u$(medium)">
 </div>
