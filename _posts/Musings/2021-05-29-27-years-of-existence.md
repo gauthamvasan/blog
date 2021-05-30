@@ -16,19 +16,19 @@ categories: [Musings]
     <div class="4u 12u$(medium)">
         <span class="image main"><img src="{{site.url}}/assets/images/27_years/still_hurts.jpg" alt="" /></span>
         <center>
-        <caption style="text-align:center"> I wear this crown of thorns <br> Upon my liar's chair <br> Full of broken thoughts <br> I cannot repair <br> - <a href="https://youtu.be/8AHCfZTRGiI"> Hurt, Johnny Cash</a> <br> artwork by <a href="https://www.instagram.com/rhymes.y/?fbclid=IwAR1v-WfTdUgoScAHcXemQA_Rm38FHbgoD1gka4ytCN_nUjfa50mKpfLndPQ">instagram.com/rhymes.y</a>  </caption>
+        <caption style="text-align:center"> "I wear this crown of thorns <br> Upon my liar's chair <br> Full of broken thoughts <br> I cannot repair" <br> - <a href="https://youtu.be/8AHCfZTRGiI"> Hurt, Johnny Cash</a> <br> <br> artwork by <a href="https://www.instagram.com/rhymes.y/?fbclid=IwAR1v-WfTdUgoScAHcXemQA_Rm38FHbgoD1gka4ytCN_nUjfa50mKpfLndPQ">instagram.com/rhymes.y</a>  </caption>
         </center>
     </div>
     <div class="4u 12u$(medium)">
         <span class="image main"><img src="{{site.url}}/assets/images/27_years/loss_of_relationships.jpg" alt="" /></span>
         <center>
-        <caption style="text-align:center">The loss of relationships - friends, family and romantic partners. <br> artwork by <a href="https://www.instagram.com/muhammedsalah_/?fbclid=IwAR2tWKR-oIGwjJI8xjQNW71_0MM5xLy_ZuqxJhuliUNonF_8kIvKk01oEqw"> instagram.com/muhammedsalah_</a>  </caption>
+        <caption style="text-align:center">The loss of relationships - friends, family and romantic partners. <br> <br> artwork by <a href="https://www.instagram.com/muhammedsalah_/?fbclid=IwAR2tWKR-oIGwjJI8xjQNW71_0MM5xLy_ZuqxJhuliUNonF_8kIvKk01oEqw"> instagram.com/muhammedsalah_</a>  </caption>
         </center>
     </div>
     <div class="4u 12u$(medium)">
         <span class="image main"><img src="{{site.url}}/assets/images/27_years/dark_place.jpg" alt="" /></span>
         <center>
-        <caption style="text-align:center"> "We understood each other in a way, me and my mom and my dad. As screwed up as we all were, we did understand each other. My mother, she knew what it's like to feel your entire life like you're drowning with the exception of these moments, these very rare, brief instances, in which you suddenly remember... you can swim." <br> - Bojack Horseman <br>  artwork by <a href="https://www.instagram.com/juliancallos/?fbclid=IwAR0if7Cu469VOzsi1XjMhsA2gog1t69M9-N4av7LuZ00NZYrFaL-_UwfRDE">instagram.com/juliancallos</a> </caption>
+        <caption style="text-align:center"> "We understood each other in a way, me and my mom and my dad. As screwed up as we all were, we did understand each other. My mother, she knew what it's like to feel your entire life like you're drowning with the exception of these moments, these very rare, brief instances, in which you suddenly remember... you can swim." <br> - Bojack Horseman <br> <br>  artwork by <a href="https://www.instagram.com/juliancallos/?fbclid=IwAR0if7Cu469VOzsi1XjMhsA2gog1t69M9-N4av7LuZ00NZYrFaL-_UwfRDE">instagram.com/juliancallos</a> </caption>
         </center>
     </div>
     
@@ -57,7 +57,7 @@ categories: [Musings]
 <br> ― Joseph Campbell, The Power of Myth 
 </blockquote>
     
-<p align= "justify"> Part of this metamorphosis has to do with <i> making peace with my unlived lives.</i> For the first time in my life, I'm not chasing after the things my ego deems to be of value. I'm using a different internal signal as my compass - the rapture of feeling alive. The intellect turned out to be a lousy master and an even worse servant. From here on, I'm letting my heart take care of the general themes, and my head will figure out the form and function. "Most people die at 25 and aren't buried until they're 75 - Ben Franklin." I've tried being a dead man metaphorically and that sucks. Might as well try something different now. Like most things in my life, this is just another experiment; I'll learn by trail and error. I intend to write another post in a few years, talking about this new journey. By the end of it, I hope to have rekindled my adventurous and free-spirited nature, something we all had as kids. And I hope that you can find it in you to smile like our future Pirate King <a href="https://onepiece.fandom.com/wiki/Monkey_D._Luffy">Monkey D Luffy</a> :)      </p>
+<p align= "justify"> Part of this metamorphosis has to do with <i> making peace with my unlived lives.</i> For the first time in my life, I'm not chasing after the things my ego deems to be of value. I'm using a different internal signal as my compass - the rapture of feeling alive. The intellect turned out to be a lousy master and an even worse servant. From here on, I'm letting my heart take care of the general themes, and my head will figure out the form and function. "Most people die at 25 and aren't buried until they're 75 - Ben Franklin." I've tried being a dead man metaphorically and that sucks. Might as well try something different now. Like most things in my life, this is just another experiment; I'll learn by trial and error. I intend to write another post in a few years, talking about this new journey. By the end of it, I hope to have rekindled my adventurous and free-spirited nature, something we all had as kids. And I hope that you can find it in you to smile like our future Pirate King <a href="https://onepiece.fandom.com/wiki/Monkey_D._Luffy">Monkey D Luffy</a> :)      </p>
 
 
 
