@@ -44,7 +44,7 @@ categories: [Musings]
 <p align= "justify"> The excerpt below is from <a href="http://www.amazon.com/Perfectly-Reasonable-Deviations-Beaten-Track/dp/0738206369">Perfectly Reasonabe Deviations From The Beaten Track</a>, a book of letters of Richard Feynman. It is among greatest pieces of writing I've read so far and it served as a nice, affectionate slap to my face, forcing me to rethink how I measure my life: </p>
 
 <blockquote>
-    "You say you are a nameless man. You are not to your wife and to your child. You will not long remain so to your immediate colleagues if you can answer their simple questions when they come into your office. You are not nameless to me. Do not remain nameless to yourself - it is too sad a way to be. now your place in the world and evaluate yourself fairly, not in terms of your naÃ¯ve ideals of your own youth, nor in terms of what you erroneously imagine your teacher's ideals are." 
+    "You say you are a nameless man. You are not to your wife and to your child. You will not long remain so to your immediate colleagues if you can answer their simple questions when they come into your office. You are not nameless to me. Do not remain nameless to yourself - it is too sad a way to be. now your place in the world and evaluate yourself fairly, not in terms of your naive ideals of your own youth, nor in terms of what you erroneously imagine your teacher's ideals are." 
     <br>
     - Richard P. Feynman
 </blockquote>
