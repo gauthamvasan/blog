@@ -41,7 +41,16 @@ categories: [Musings]
 <!-- ----------------------------------------- -->
 
 <h3> Making peace with unlived lives </h3>
-<p align= "justify"> I've spent a significant portion of my life just mourning the person I didn't become. Through a simple twist of fate, I've been getting knocked down so frequently that it took me a while just to find my bearings again. For a long time, I was living on autopilot, tuning out my inner voice, lost and adrift at sea. I'm finally starting to wake up from the catatonic state and looking at the world as if I'm seeing it for the first time. And man, that's been a deeply spiritual, cleansing experience. I'm not yet able to fully articulate what's going on within me. But it's this strange metamorphosis that's helping let go of the bitterness, regrets, and resentments of the past. I'm still lost and confused, except the heaviness of my past is being replaced by the lightness of a beginner again. It's almost as if I'm finding myself all over again, with the curiosity of a child. </p>
+<p align= "justify"> The excerpt below is from <a href="http://www.amazon.com/Perfectly-Reasonable-Deviations-Beaten-Track/dp/0738206369">Perfectly Reasonabe Deviations From The Beaten Track</a>, a book of letters of Richard Feynman. It is among greatest pieces of writing I've read so far and it served as a nice, affectionate slap to my face, forcing me to rethink how I measure my life: </p>
+
+<blockquote>
+    "You say you are a nameless man. You are not to your wife and to your child. You will not long remain so to your immediate colleagues if you can answer their simple questions when they come into your office. You are not nameless to me. Do not remain nameless to yourself - it is too sad a way to be. now your place in the world and evaluate yourself fairly, not in terms of your naÃ¯ve ideals of your own youth, nor in terms of what you erroneously imagine your teacher's ideals are." 
+    <br>
+    - Richard P. Feynman
+</blockquote>
+
+
+<p align= "justify"> I've spent a significant portion of my life just mourning the person I didn't become. Through a simple twist of fate, I've been getting knocked down so frequently that it took me a while just to find my bearings again. For a long time, I was living on autopilot, tuning out my inner voice, lost and adrift at sea. I'm finally starting to wake up from the catatonic state and looking at the world as if I'm seeing it for the first time. And man, that's been a deeply spiritual, cleansing experience. I'm not yet able to fully articulate what's going on within me. But it's this strange metamorphosis that's helping let go of the bitterness, regrets, and resentments of the past. The way I'm measuring the worth of my life seems to be drastically different and way more human. I'm still lost and confused, except the heaviness of the past is being replaced by the lightness of a beginner again. And I'm perfectly fine being lost at the moment :) I'm making connections that I never could before, getting brief glimpses of the divine from time to time. It's almost as if I'm finding myself all over again, with the curiosity of a child.  </p>
     
 <blockquote>
 “People say that what we’re all seeking is a meaning for life. I don’t think that’s what we’re really seeking. I think that what we’re seeking is an experience of being alive, so that our life experiences on the purely physical plane will have resonances with our own innermost being and reality, so that we actually feel the rapture of being alive.”
