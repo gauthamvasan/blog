@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Mono No Aware"
-subtitle: "A gentle reminder to myself to embrace the ephemeral nature of life."
+subtitle: "The bittersweet poignancy of things."
 date: 2022-01-7 01:38:42 -0600
 categories: [Musings]
 ---
