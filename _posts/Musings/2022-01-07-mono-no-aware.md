@@ -65,14 +65,14 @@ there is nothing to hold on to. <br>
 As he looks up at the night sky, 
 he takes a deep breath in and slowly lets it go. <br>
 As the clouds start to disperse, 
-he marvels at beauty of a starry night sky. <br>
+he marvels at the beauty of a starry night sky. <br>
 Once again, he's moved by a deep, profound sense of wonder <br>
 <br>
-He senses electricity in the air. <br>
+He senses this indescribable electricity in the air. <br>
 He could almost reach out and feel <br>
 this playful, benevolent force around him. <br>
 He smiles as he realizes that there was no reason to be afraid. <br>
-All he had to do was let go. <br>
+All he had to do was let go ... <br>
 <br>
  </blockquote>
 
@@ -131,7 +131,7 @@ All he had to do was let go. <br>
 
 <p align= "justify"> One of my earliest memories of adolescence is a conversation with my father, where he compared the people in our lives to passengers on a train. Some would get off at an earlier stop, some would give us company for a long time, and some would leave a lasting impact, even if the time we shared was too short. Nevertheless, we all have to get off the train when we finally arrive at our stop. In hindsight, I think it is a great analogy for the nature of relationships in life. Things might change, friends might drift apart, but life goes on. </p>  
 
-<p align= "justify"> I genuinely believe that it's an honour and a privilege to bear witness to the inherent beauty of life. It may take a moment for me to let go and say goodbye. But that's okay. Life will change, and perhaps, I'll experience an entirely different kind of beauty. I'm just grateful that I get to be a part of this journey. </p>
+<p align= "justify"> I genuinely believe that it's an honour and a privilege to bear witness to the inherent beauty of life. It may take a moment for me to let go and say goodbye. But that's okay. Life will change, and perhaps, I'll experience an entirely different kind of beauty. I'm just grateful that I get to be a part of this journey. I'll trust the wisdom of the Universe, take a leap of faith and just let go :) </p>
 
 
 ## References
