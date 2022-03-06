@@ -49,9 +49,11 @@ He knows what change entails. <br>
 He knows that someone who cannot sacrifice anything, <br>
 can never change a single damn thing. <br>
 <br>
-As much as he craves the loveliness that change could bring, <br>
-he's scared of the things change can take away from him, <br>
-the things he may have to sacrifice. <br>
+He's frightened of the vicissitudes of change. <br>
+As much as he craves novelty <br>
+and the loveliness change can bring forth, <br>
+he doesn't want to lose his cherished posessions. <br>
+<br>
 But then he remembers... <br>
 that none of it was his, to begin with. <br>
 He was only entertaining delusions of control. <br>
@@ -62,9 +64,9 @@ since none of it was his, to begin with. <br>
 If everything changes, <br>
 there is nothing to hold on to. <br>
 <br>
-As he looks up at the night sky, 
+As he looks up at the night sky, <br>
 he takes a deep breath in and slowly lets it go. <br>
-As the clouds start to disperse, 
+As the clouds start to disperse, <br>
 he marvels at the beauty of a starry night sky. <br>
 Once again, he's moved by a deep, profound sense of wonder <br>
 <br>
