@@ -76,9 +76,9 @@ The thing I came here to learn turns out to be this: there is no secret. It's ga
 </p>
 
 <p align="justify">
-And yet. Here's the part I'd rather not write: their hubris and false bravado might still beat my caution. The meek don't inherit anything in this town. The idealist in me wants no part of this game. The realist lies awake, tallying the cost of not playing — the reticence, the waiting, the not-betting. I let their noise drown my voice once already. I don't think I can survive letting it happen twice.
+And yet. Here's the part I'd rather not write: their hubris and false bravado might still beat my caution. The meek don't inherit anything in this town. The idealist in me wants no part of this game. The realist lies awake, tallying the cost of not playing — the reticence, the waiting, the not-betting. I let the noise drown my voice once already. I don't think I can survive letting it happen twice.
 </p>
 
 <p align="justify">
-I don't know how my story ends. Honestly, I have no clue what to do either. All I know is what the Stoics taught: assent to what is true, deny what is false. And that begins with speaking what I perceive to be true.
+I don't know how my story ends. Honestly, I have no clue what to do either. All I know is what the Stoics taught: assent to what is true, deny what is false. And that begins with speaking what I perceive to be true, with compassion and humility.
 </p>
