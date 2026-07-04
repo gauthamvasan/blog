@@ -8,10 +8,10 @@ rss_baseurl: "https://enlightenedidiot.net"
 url: "" # the base hostname & protocol for your site
 author: Gautham Vasan
 street_address: 
-city: Toronto
-state: Ontario
+city: San Francisco
+state: California
 zip_code: 
-country: Canada
+country: USA
 phone:
 
 # Social settings
