@@ -32,7 +32,7 @@ All I see is blatant plagiarism. And when it's called out, people quote Silicon 
 </p>
 
 <p align="justify">
-I have lost count of the thought leaders and twenty- and thirty-somethings in high-paying tech jobs who genuinely espouse the idea that people who don't own equity by 2030 will be a "permanent underclass." These are otherwise normal people - kind, at least in person, and seemingly well-meaning. But their callousness toward anyone outside the tech bubble, toward nature, toward the larger world, is mortifying. They'll say all this with teeth bared in a relishing smile, because deep down they think they'll win this game. And beneath it sits the other unspoken belief: "if you're so smart, why can't you make money? Only schmucks don't make money." Let's conveniently forget that you have to be sufficiently ruthless, incapable of introspection, and borderline sociopathic to actually reach those levels of wealth.
+I have lost count of the "thought leaders" and twenty- and thirty-somethings in high-paying tech jobs who genuinely espouse the idea that people who don't own equity by 2030 will be a "permanent underclass." These are otherwise normal people - kind, at least in person, and seemingly well-meaning. But their callousness toward anyone outside the tech bubble, toward nature, toward the larger world, is mortifying. They'll say all this with teeth bared in a relishing smile, because deep down they think they'll win this game. And beneath it sits the other unspoken belief: "if you're so smart, why can't you make money? Only schmucks don't make money." Let's conveniently forget that you have to be sufficiently ruthless, incapable of introspection, and borderline sociopathic to actually reach those levels of wealth.
 </p>
 
 <p align="justify">
