@@ -16,15 +16,15 @@ On paper, I should be happy. A nice job, beautiful views, a comfortable life in 
 </p>
 
 <p align="justify">
-I came here believing Silicon Valley had figured something out that I hadn't. That's the honest version. Not "I moved for a job". I moved because I thought the Bay Area's sheer density of smart, accomplished people was unmatched anywhere else in the world, and I wanted to know what they knew. I wanted to understand what drove the insane capital expenditure, the cult-like worship of key figures in deep learning, the crazy proclamations that artificial general intelligence (AGI) is right around the corner, that scaling up large language models that predict the next token will somehow magically summon god-like sentient beings.
+I moved here believing Silicon Valley had figured something out that I hadn't. That's the honest version. Not "I moved for a job". I moved because I thought the Bay Area's sheer density of smart, accomplished people was unmatched anywhere else in the world, and I wanted to know what they knew. I wanted to understand what drove the insane capital expenditure, the cult-like worship of key figures in deep learning, the crazy proclamations that artificial general intelligence (AGI) is right around the corner, that scaling up large language models that predict the next token will somehow magically summon god-like sentient beings.
 </p>
 
 <p align="justify">
-And most of all, I'm ashamed to admit this now, my faith in my own beliefs about AI, my own work and abilities, was shaken by the storm of LLM investment. Simply put, I drowned out my own inner voice with external noise.
+And most of all, I'm ashamed to admit this now: my faith in my own beliefs about AI and the relevance of my research was shaken by the storm of LLM investment. What is my role in this new future? Is this a step change in technology, where failing to adapt means obsolescence? Was everyone else seeing something I refused to see? My doubts got so loud that I felt forced to act. Staying the course seemed like the costliest option of all.
 </p>
 
 <p align="justify">
-Four months in, here's what I found.
+Four months in, I'm starting to see through the fog and hear my inner voice again.
 </p>
 
 <p align="justify">
@@ -72,7 +72,7 @@ Who talks like this? - "Tech Overlords. Permanent Underclass". A city that plast
 </p>
 
 <p align="justify">
-The thing I came here to learn turns out to be this: there is no secret. It's gambling all the way down - insane bets, dressed up as insight. The emperor has no fucking clothes. These people are not smarter than us.
+The thing I came here to learn turns out to be this: there is no secret. It's gambling all the way down - insane bets, dressed up as insight. The emperor has no clothes. These people are not smarter than us.
 </p>
 
 <p align="justify">
@@ -80,5 +80,5 @@ And yet. Here's the part I'd rather not write: their hubris and false bravado mi
 </p>
 
 <p align="justify">
-I don't know how my story ends. Honestly, I have no fucking clue what to do either. All I know is what the Stoics taught: assent to what is true, deny what is false. And that begins with speaking what I perceive to be true.
+I don't know how my story ends. Honestly, I have no clue what to do either. All I know is what the Stoics taught: assent to what is true, deny what is false. And that begins with speaking what I perceive to be true.
 </p>
