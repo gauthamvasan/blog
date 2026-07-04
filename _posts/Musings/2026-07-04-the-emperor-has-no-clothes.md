@@ -20,7 +20,7 @@ I moved here believing Silicon Valley had figured something out that I hadn't. T
 </p>
 
 <p align="justify">
-And most of all, I'm ashamed to admit this now: my faith in my own beliefs about AI and the relevance of my research was shaken by the storm of LLM investment. What is my role in this new future? Is this a step change in technology, where failing to adapt means obsolescence? Was everyone else seeing something I refused to see? My doubts got so loud that I felt forced to act. Staying the course seemed like the costliest option of all.
+And most of all, I'm ashamed to admit this now: my conviction in my own beliefs about AI and the relevance of my research was shaken by the storm of LLM investment. What is my role in this new future? Is this a step change in technology, where failing to adapt means obsolescence? Was everyone else seeing something I refused to see? My doubts got so loud that I felt forced to act. Staying the course seemed like the costliest option of all.
 </p>
 
 <p align="justify">
