@@ -40,7 +40,7 @@ It's not just the companies. Most conversations in this city find their way to m
 </p>
 
 <p align="justify">
-And I need to say something about the streets. The homelessness I see in San Francisco is unlike anything I've seen anywhere else in the world. I grew up in Chennai, walking past slums and poverty every day. But the destitution here isn't just poverty - it's deliberate, systematic. A fucked-up feudalism dressed up as capitalism that ruins people on a whole different level and profits off it all. An evil that stems from the ruthlessness of the rich and the indifference of the upper middle class. A city this wealthy, with this many broken, starving citizens and exploted immigrants, has made a choice.
+And I need to say something about the streets. The homelessness I see in San Francisco is unlike anything I've seen anywhere else in the world. I grew up in Chennai, where wealth and poverty coexist side by side: it's not uncommon to walk past slums and see children hawking knick-knacks at car windows. But the destitution in SF isn't just poverty - it's deliberate, systematic. A fucked-up feudalism dressed up as capitalism that ruins people on a whole different level and profits off it all. An evil that stems from the ruthlessness of the rich and the indifference of the upper middle class. A city this wealthy, with this many broken, starving citizens and exploted immigrants, has made a choice.
 </p>
 
 
