@@ -82,3 +82,11 @@ And yet. Here's the part I'd rather not write: their hubris and false bravado mi
 <p align="justify">
 I don't know how my story ends. Honestly, I have no clue what to do either. All I know is what the Stoics taught: assent to what is true, deny what is false. And that begins with speaking what I perceive to be true, with compassion and humility.
 </p>
+
+<br>
+
+<hr>
+
+<p align="justify">
+P.S. As cynical as this post sounds, I love San Francisco. There's real beauty in this city and its culture worth preserving. What worries me is the current AI and venture capital frenzy — and I don't know how much of what I love here will survive it.
+</p>
