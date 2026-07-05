@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The Emperor Has No Clothes"
-subtitle: "Growth at all costs is called cancer - reflections from four months in San Francisco"
+subtitle: "Reflections from four months in San Francisco"
 date: 2026-07-04 14:45:42 -0600
 categories: [Musings]
 ---
@@ -68,7 +68,7 @@ And I need to say something about the streets. The homelessness I see in San Fra
 <br>
 
 <p align="justify">
-Who talks like this? - "Tech Overlords. Permanent Underclass". A city that plasters AI billboards on every corner and calls it optimism. A race to own all the capital before AI takes over - fear-driven nonsense and bad economics everywhere, dressed up as inevitability. A culture that worships growth without noticing that growth at all costs, in a living body, is called cancer.
+Who talks like this? - "Tech Overlords. Permanent Underclass". A city that plasters AI billboards on every corner and calls it optimism. A race to own all the capital before AI takes over - fear-driven nonsense and bad economics everywhere, dressed up as inevitability. <u>A culture that worships growth without noticing that growth at all costs, in a living body, is called cancer</u>.
 </p>
 
 <p align="justify">
